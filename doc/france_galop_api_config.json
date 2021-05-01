@@ -1,0 +1,3223 @@
+{
+    "api_filter": {
+        "racetrack": [
+            {
+                "CodeHippodrome": "ZN07",
+                "LibelleLong": "AALBORG"
+            },
+            {
+                "CodeHippodrome": "ZH01",
+                "LibelleLong": "AARAU"
+            },
+            {
+                "CodeHippodrome": "0810",
+                "LibelleLong": "ABBEVILLE"
+            },
+            {
+                "CodeHippodrome": "ZF95",
+                "LibelleLong": "ABU DHABI"
+            },
+            {
+                "CodeHippodrome": "ZT01",
+                "LibelleLong": "ADANA"
+            },
+            {
+                "CodeHippodrome": "ZF07",
+                "LibelleLong": "AFRIQUE DU SUD"
+            },
+            {
+                "CodeHippodrome": "0580",
+                "LibelleLong": "AGEN"
+            },
+            {
+                "CodeHippodrome": "0301",
+                "LibelleLong": "AGON-COUTAINVILLE"
+            },
+            {
+                "CodeHippodrome": "ZU66",
+                "LibelleLong": "AIKEN"
+            },
+            {
+                "CodeHippodrome": "ZG01",
+                "LibelleLong": "AINTREE"
+            },
+            {
+                "CodeHippodrome": "0501",
+                "LibelleLong": "AIRE-SUR-L'ADOUR"
+            },
+            {
+                "CodeHippodrome": "0601",
+                "LibelleLong": "AIX-EN-PROVENCE"
+            },
+            {
+                "CodeHippodrome": "0701",
+                "LibelleLong": "AIX-LES-BAINS"
+            },
+            {
+                "CodeHippodrome": "2051",
+                "LibelleLong": "AJACCIO"
+            },
+            {
+                "CodeHippodrome": "ZF06",
+                "LibelleLong": "AL ASAYL"
+            },
+            {
+                "CodeHippodrome": "ZF87",
+                "LibelleLong": "ALAIN RACESOURSE"
+            },
+            {
+                "CodeHippodrome": "ZL20",
+                "LibelleLong": "ALBENGA"
+            },
+            {
+                "CodeHippodrome": "0302",
+                "LibelleLong": "ALENCON"
+            },
+            {
+                "CodeHippodrome": "zk03",
+                "LibelleLong": "almaty"
+            },
+            {
+                "CodeHippodrome": "0801",
+                "LibelleLong": "AMIENS"
+            },
+            {
+                "CodeHippodrome": "0201",
+                "LibelleLong": "ANGERS"
+            },
+            {
+                "CodeHippodrome": "0254",
+                "LibelleLong": "ANGERS MIDI"
+            },
+            {
+                "CodeHippodrome": "0502",
+                "LibelleLong": "ANGOULEME"
+            },
+            {
+                "CodeHippodrome": "ZU01",
+                "LibelleLong": "AQUEDUCT"
+            },
+            {
+                "CodeHippodrome": "0303",
+                "LibelleLong": "ARGENTAN"
+            },
+            {
+                "CodeHippodrome": "0387",
+                "LibelleLong": "ARGENTAN MIDI"
+            },
+            {
+                "CodeHippodrome": "ZSA4",
+                "LibelleLong": "ARGENTINO DE PALERMO"
+            },
+            {
+                "CodeHippodrome": "ZN09",
+                "LibelleLong": "ARHUS"
+            },
+            {
+                "CodeHippodrome": "ZF21",
+                "LibelleLong": "ARLINGTON (Afr. du Sud)"
+            },
+            {
+                "CodeHippodrome": "ZU02",
+                "LibelleLong": "ARLINGTON PARK"
+            },
+            {
+                "CodeHippodrome": "ZH05",
+                "LibelleLong": "AROSA"
+            },
+            {
+                "CodeHippodrome": "0802",
+                "LibelleLong": "ARRAS"
+            },
+            {
+                "CodeHippodrome": "ZG02",
+                "LibelleLong": "ASCOT"
+            },
+            {
+                "CodeHippodrome": "ZA10",
+                "LibelleLong": "ASCOT (AUSTRALIE)"
+            },
+            {
+                "CodeHippodrome": "ZP02",
+                "LibelleLong": "ATHENES"
+            },
+            {
+                "CodeHippodrome": "ZU03",
+                "LibelleLong": "ATLANTA"
+            },
+            {
+                "CodeHippodrome": "ZU04",
+                "LibelleLong": "ATLANTIC CITY"
+            },
+            {
+                "CodeHippodrome": "0702",
+                "LibelleLong": "AUBIGNY-SUR-NERE"
+            },
+            {
+                "CodeHippodrome": "0584",
+                "LibelleLong": "AUCH"
+            },
+            {
+                "CodeHippodrome": "2061",
+                "LibelleLong": "AULLENE"
+            },
+            {
+                "CodeHippodrome": "0503",
+                "LibelleLong": "AURILLAC"
+            },
+            {
+                "CodeHippodrome": "0006",
+                "LibelleLong": "AUTEUIL"
+            },
+            {
+                "CodeHippodrome": "0036",
+                "LibelleLong": "AUTEUIL MIDI"
+            },
+            {
+                "CodeHippodrome": "ZH12",
+                "LibelleLong": "AVENCHES"
+            },
+            {
+                "CodeHippodrome": "ZH13",
+                "LibelleLong": "AVENCHES SOIR (Suisse)"
+            },
+            {
+                "CodeHippodrome": "0602",
+                "LibelleLong": "AVIGNON"
+            },
+            {
+                "CodeHippodrome": "0304",
+                "LibelleLong": "AVRANCHES"
+            },
+            {
+                "CodeHippodrome": "ZG03",
+                "LibelleLong": "AYR"
+            },
+            {
+                "CodeHippodrome": "ZD23",
+                "LibelleLong": "BAD DOBERAN"
+            },
+            {
+                "CodeHippodrome": "ZD01",
+                "LibelleLong": "BADEN-BADEN"
+            },
+            {
+                "CodeHippodrome": "ZD27",
+                "LibelleLong": "BAD-HARZBURG"
+            },
+            {
+                "CodeHippodrome": "0504",
+                "LibelleLong": "BAGNERES DE LUCHON"
+            },
+            {
+                "CodeHippodrome": "0305",
+                "LibelleLong": "BAGNOLES DE L'ORNE"
+            },
+            {
+                "CodeHippodrome": "ZSBA",
+                "LibelleLong": "BAHREIN"
+            },
+            {
+                "CodeHippodrome": "ZH10",
+                "LibelleLong": "BALE SCHANZLI"
+            },
+            {
+                "CodeHippodrome": "ZI25",
+                "LibelleLong": "BALLINROBE"
+            },
+            {
+                "CodeHippodrome": "ZG04",
+                "LibelleLong": "BANGOR"
+            },
+            {
+                "CodeHippodrome": "0505",
+                "LibelleLong": "BARBEZIEUX"
+            },
+            {
+                "CodeHippodrome": "ZG05",
+                "LibelleLong": "BATH"
+            },
+            {
+                "CodeHippodrome": "ZU05",
+                "LibelleLong": "BAY MEADOWS"
+            },
+            {
+                "CodeHippodrome": "0306",
+                "LibelleLong": "BAYEUX"
+            },
+            {
+                "CodeHippodrome": "0558",
+                "LibelleLong": "BDX BOUSCAT MIDI"
+            },
+            {
+                "CodeHippodrome": "0506",
+                "LibelleLong": "BEAUMONT DE LOMAGNE"
+            },
+            {
+                "CodeHippodrome": "0202",
+                "LibelleLong": "BEAUMONT-SUR-SARTHE"
+            },
+            {
+                "CodeHippodrome": "0203",
+                "LibelleLong": "BEAUPREAU"
+            },
+            {
+                "CodeHippodrome": "ZYU1",
+                "LibelleLong": "BELGRADE"
+            },
+            {
+                "CodeHippodrome": "ZI28",
+                "LibelleLong": "BELLEWSTOWN"
+            },
+            {
+                "CodeHippodrome": "ZU06",
+                "LibelleLong": "BELMONT"
+            },
+            {
+                "CodeHippodrome": "ZA19",
+                "LibelleLong": "BENDIGO (AUS)"
+            },
+            {
+                "CodeHippodrome": "0803",
+                "LibelleLong": "BERCK-SUR-MER"
+            },
+            {
+                "CodeHippodrome": "0401",
+                "LibelleLong": "BERNAY"
+            },
+            {
+                "CodeHippodrome": "ZG06",
+                "LibelleLong": "BEVERLEY"
+            },
+            {
+                "CodeHippodrome": "0507",
+                "LibelleLong": "BIARRITZ-BAYONNE"
+            },
+            {
+                "CodeHippodrome": "2052",
+                "LibelleLong": "BIGUGLIA"
+            },
+            {
+                "CodeHippodrome": "ZD30",
+                "LibelleLong": "BILLIGHEIM"
+            },
+            {
+                "CodeHippodrome": "0101",
+                "LibelleLong": "BLAIN BOUVRON LE GAVRE"
+            },
+            {
+                "CodeHippodrome": "ZD28",
+                "LibelleLong": "BLIESKASTEL"
+            },
+            {
+                "CodeHippodrome": "ZN08",
+                "LibelleLong": "BLOMMEROD"
+            },
+            {
+                "CodeHippodrome": "ZB01",
+                "LibelleLong": "BOITSFORT"
+            },
+            {
+                "CodeHippodrome": "0603",
+                "LibelleLong": "BOLLENE"
+            },
+            {
+                "CodeHippodrome": "0581",
+                "LibelleLong": "BORDEAUX LE BOUSCAT"
+            },
+            {
+                "CodeHippodrome": "0508",
+                "LibelleLong": "BORDEAUX LE BOUSCAT (ex)"
+            },
+            {
+                "CodeHippodrome": "0624",
+                "LibelleLong": "BORELY MIDI"
+            },
+            {
+                "CodeHippodrome": "0102",
+                "LibelleLong": "BOUGUENAIS"
+            },
+            {
+                "CodeHippodrome": "0703",
+                "LibelleLong": "BOURBON-LANCY"
+            },
+            {
+                "CodeHippodrome": "0103",
+                "LibelleLong": "BOUVRON"
+            },
+            {
+                "CodeHippodrome": "ZQ03",
+                "LibelleLong": "BRATISLAVA (SLOVAQUIE)"
+            },
+            {
+                "CodeHippodrome": "0307",
+                "LibelleLong": "BREHAL"
+            },
+            {
+                "CodeHippodrome": "ZD02",
+                "LibelleLong": "BREME"
+            },
+            {
+                "CodeHippodrome": "ZG07",
+                "LibelleLong": "BRIGHTON"
+            },
+            {
+                "CodeHippodrome": "ZN11",
+                "LibelleLong": "BRO PARK"
+            },
+            {
+                "CodeHippodrome": "ZQ95",
+                "LibelleLong": "BUDAPEST"
+            },
+            {
+                "CodeHippodrome": "ZT04",
+                "LibelleLong": "BURSA"
+            },
+            {
+                "CodeHippodrome": "ZU69",
+                "LibelleLong": "BUTLER"
+            },
+            {
+                "CodeHippodrome": "0308",
+                "LibelleLong": "CABOURG"
+            },
+            {
+                "CodeHippodrome": "0399",
+                "LibelleLong": "CAEN"
+            },
+            {
+                "CodeHippodrome": "0694",
+                "LibelleLong": "CAGNES MIDI"
+            },
+            {
+                "CodeHippodrome": "0017",
+                "LibelleLong": "CAGNES SUR MER (FG)"
+            },
+            {
+                "CodeHippodrome": "0604",
+                "LibelleLong": "CAGNES-SUR-MER"
+            },
+            {
+                "CodeHippodrome": "0804",
+                "LibelleLong": "CALAIS"
+            },
+            {
+                "CodeHippodrome": "ZU07",
+                "LibelleLong": "CALDER"
+            },
+            {
+                "CodeHippodrome": "ZU71",
+                "LibelleLong": "CAMDEN"
+            },
+            {
+                "CodeHippodrome": "0104",
+                "LibelleLong": "CAMPBON"
+            },
+            {
+                "CodeHippodrome": "ZE10",
+                "LibelleLong": "CANARIES"
+            },
+            {
+                "CodeHippodrome": "ZE14",
+                "LibelleLong": "CANTABRIA-LAREDO"
+            },
+            {
+                "CodeHippodrome": "ZU60",
+                "LibelleLong": "CANTERBURY"
+            },
+            {
+                "CodeHippodrome": "ZA15",
+                "LibelleLong": "CANTERBURY"
+            },
+            {
+                "CodeHippodrome": "0509",
+                "LibelleLong": "CARCASSONNE"
+            },
+            {
+                "CodeHippodrome": "0309",
+                "LibelleLong": "CARENTAN"
+            },
+            {
+                "CodeHippodrome": "0105",
+                "LibelleLong": "CARHAIX"
+            },
+            {
+                "CodeHippodrome": "ZG09",
+                "LibelleLong": "CARLISLE"
+            },
+            {
+                "CodeHippodrome": "0605",
+                "LibelleLong": "CARPENTRAS"
+            },
+            {
+                "CodeHippodrome": "ZG08",
+                "LibelleLong": "CARTMEL"
+            },
+            {
+                "CodeHippodrome": "ZF03",
+                "LibelleLong": "CASABLANCA"
+            },
+            {
+                "CodeHippodrome": "0510",
+                "LibelleLong": "CASTELSARRASIN"
+            },
+            {
+                "CodeHippodrome": "0511",
+                "LibelleLong": "CASTERA-VERDUZAN"
+            },
+            {
+                "CodeHippodrome": "ZG10",
+                "LibelleLong": "CATTERICK"
+            },
+            {
+                "CodeHippodrome": "ZA07",
+                "LibelleLong": "CAULFIELD"
+            },
+            {
+                "CodeHippodrome": "2062",
+                "LibelleLong": "CAURO"
+            },
+            {
+                "CodeHippodrome": "0606",
+                "LibelleLong": "CAVAILLON"
+            },
+            {
+                "CodeHippodrome": "0512",
+                "LibelleLong": "CAZAUBON BARBOTAN THERMES"
+            },
+            {
+                "CodeHippodrome": "0704",
+                "LibelleLong": "CERCY-LA-TOUR"
+            },
+            {
+                "CodeHippodrome": "0513",
+                "LibelleLong": "CHALAIS"
+            },
+            {
+                "CodeHippodrome": "0106",
+                "LibelleLong": "CHALLANS"
+            },
+            {
+                "CodeHippodrome": "0901",
+                "LibelleLong": "CHALONS EN CHAMPAGNE"
+            },
+            {
+                "CodeHippodrome": "ZF23",
+                "LibelleLong": "CHAMP DE MARS"
+            },
+            {
+                "CodeHippodrome": "0002",
+                "LibelleLong": "CHANTILLY"
+            },
+            {
+                "CodeHippodrome": "0032",
+                "LibelleLong": "CHANTILLY MIDI"
+            },
+            {
+                "CodeHippodrome": "0204",
+                "LibelleLong": "CHARROUX"
+            },
+            {
+                "CodeHippodrome": "0402",
+                "LibelleLong": "CHARTRES"
+            },
+            {
+                "CodeHippodrome": "0107",
+                "LibelleLong": "CHATEAUBRIANT"
+            },
+            {
+                "CodeHippodrome": "0205",
+                "LibelleLong": "CHATEAU-DU-LOIR"
+            },
+            {
+                "CodeHippodrome": "0206",
+                "LibelleLong": "CHATEAU-GONTIER"
+            },
+            {
+                "CodeHippodrome": "0514",
+                "LibelleLong": "CHATEAUNEUF SUR CHARENTE"
+            },
+            {
+                "CodeHippodrome": "0207",
+                "LibelleLong": "CHATEAUNEUF SUR SARTHE"
+            },
+            {
+                "CodeHippodrome": "0705",
+                "LibelleLong": "CHATEAUROUX"
+            },
+            {
+                "CodeHippodrome": "0526",
+                "LibelleLong": "CHATELAILLON"
+            },
+            {
+                "CodeHippodrome": "0208",
+                "LibelleLong": "CHATELAIS-L'HOSTELLERIE"
+            },
+            {
+                "CodeHippodrome": "0706",
+                "LibelleLong": "CHATILLON-SUR-CHALARONNE"
+            },
+            {
+                "CodeHippodrome": "ZG67",
+                "LibelleLong": "CHELMSFORD "
+            },
+            {
+                "CodeHippodrome": "ZG11",
+                "LibelleLong": "CHELTENHAM"
+            },
+            {
+                "CodeHippodrome": "ZG12",
+                "LibelleLong": "CHEPSTOW"
+            },
+            {
+                "CodeHippodrome": "ZG13",
+                "LibelleLong": "CHESTER"
+            },
+            {
+                "CodeHippodrome": "ZS85",
+                "LibelleLong": "CHILE (Chili)"
+            },
+            {
+                "CodeHippodrome": "ZL01",
+                "LibelleLong": "CHILIVANI"
+            },
+            {
+                "CodeHippodrome": "0209",
+                "LibelleLong": "CHINON"
+            },
+            {
+                "CodeHippodrome": "0210",
+                "LibelleLong": "CHOLET"
+            },
+            {
+                "CodeHippodrome": "ZJ07",
+                "LibelleLong": "CHUKYO"
+            },
+            {
+                "CodeHippodrome": "ZU08",
+                "LibelleLong": "CHURCHILL DOWNS"
+            },
+            {
+                "CodeHippodrome": "ZSA5",
+                "LibelleLong": "CIDADE JARDIM (BRZ)"
+            },
+            {
+                "CodeHippodrome": "0310",
+                "LibelleLong": "CLAIREFONTAINE"
+            },
+            {
+                "CodeHippodrome": "0389",
+                "LibelleLong": "CLAIREFONTAINE MIDI"
+            },
+            {
+                "CodeHippodrome": "ZF15",
+                "LibelleLong": "CLAIRWOOD"
+            },
+            {
+                "CodeHippodrome": "ZI21",
+                "LibelleLong": "CLONMEL"
+            },
+            {
+                "CodeHippodrome": "0714",
+                "LibelleLong": "CLUNY"
+            },
+            {
+                "CodeHippodrome": "0707",
+                "LibelleLong": "CLUNY (OLD)"
+            },
+            {
+                "CodeHippodrome": "ZD03",
+                "LibelleLong": "COLOGNE"
+            },
+            {
+                "CodeHippodrome": "ZU50",
+                "LibelleLong": "COLONIAL DOWNS"
+            },
+            {
+                "CodeHippodrome": "0211",
+                "LibelleLong": "COMBREE"
+            },
+            {
+                "CodeHippodrome": "0880",
+                "LibelleLong": "COMPIEGNE"
+            },
+            {
+                "CodeHippodrome": "0480",
+                "LibelleLong": "COMPIEGNE (OLD)"
+            },
+            {
+                "CodeHippodrome": "0814",
+                "LibelleLong": "COMPIEGNE MIDI"
+            },
+            {
+                "CodeHippodrome": "ZS87",
+                "LibelleLong": "CONCEPCION (Chili)"
+            },
+            {
+                "CodeHippodrome": "0515",
+                "LibelleLong": "CONDOM"
+            },
+            {
+                "CodeHippodrome": "ZI27",
+                "LibelleLong": "CORK"
+            },
+            {
+                "CodeHippodrome": "0108",
+                "LibelleLong": "CORLAY"
+            },
+            {
+                "CodeHippodrome": "ZL14",
+                "LibelleLong": "CORRIDONIA"
+            },
+            {
+                "CodeHippodrome": "0245",
+                "LibelleLong": "COSSE-LE-VIVIEN"
+            },
+            {
+                "CodeHippodrome": "0311",
+                "LibelleLong": "COURTOMER"
+            },
+            {
+                "CodeHippodrome": "ZA25",
+                "LibelleLong": "CRANBOURNE (Australie)"
+            },
+            {
+                "CodeHippodrome": "0212",
+                "LibelleLong": "CRAON"
+            },
+            {
+                "CodeHippodrome": "ZI01",
+                "LibelleLong": "CURRAGH"
+            },
+            {
+                "CodeHippodrome": "0516",
+                "LibelleLong": "DAX"
+            },
+            {
+                "CodeHippodrome": "0003",
+                "LibelleLong": "DEAUVILLE"
+            },
+            {
+                "CodeHippodrome": "0033",
+                "LibelleLong": "DEAUVILLE MIDI"
+            },
+            {
+                "CodeHippodrome": "ZU09",
+                "LibelleLong": "DEL MAR (USA)"
+            },
+            {
+                "CodeHippodrome": "ZU21",
+                "LibelleLong": "DELAWARE PARK"
+            },
+            {
+                "CodeHippodrome": "ZU47",
+                "LibelleLong": "DELTA DOWNS"
+            },
+            {
+                "CodeHippodrome": "0404",
+                "LibelleLong": "DIEPPE"
+            },
+            {
+                "CodeHippodrome": "0491",
+                "LibelleLong": "DIEPPE MIDI"
+            },
+            {
+                "CodeHippodrome": "0109",
+                "LibelleLong": "DINAN"
+            },
+            {
+                "CodeHippodrome": "0708",
+                "LibelleLong": "DIVONNE-LES-BAINS"
+            },
+            {
+                "CodeHippodrome": "ZQU1",
+                "LibelleLong": "DOHA"
+            },
+            {
+                "CodeHippodrome": "ZG15",
+                "LibelleLong": "DONCASTER"
+            },
+            {
+                "CodeHippodrome": "ZA12",
+                "LibelleLong": "DOOMBEN"
+            },
+            {
+                "CodeHippodrome": "ZD04",
+                "LibelleLong": "DORTMUND"
+            },
+            {
+                "CodeHippodrome": "ZI05",
+                "LibelleLong": "DOWN ROYAL"
+            },
+            {
+                "CodeHippodrome": "ZI26",
+                "LibelleLong": "DOWNPATRICK"
+            },
+            {
+                "CodeHippodrome": "ZD16",
+                "LibelleLong": "DRESDE"
+            },
+            {
+                "CodeHippodrome": "0405",
+                "LibelleLong": "DREUX"
+            },
+            {
+                "CodeHippodrome": "ZF96",
+                "LibelleLong": "DUBAI"
+            },
+            {
+                "CodeHippodrome": "ZU36",
+                "LibelleLong": "DUELING GROUNDS"
+            },
+            {
+                "CodeHippodrome": "ZO01",
+                "LibelleLong": "DUINDIGT"
+            },
+            {
+                "CodeHippodrome": "ZI15",
+                "LibelleLong": "DUNDALK"
+            },
+            {
+                "CodeHippodrome": "ZF14",
+                "LibelleLong": "DURBAN"
+            },
+            {
+                "CodeHippodrome": "ZF25",
+                "LibelleLong": "DURBANVILLE"
+            },
+            {
+                "CodeHippodrome": "0213",
+                "LibelleLong": "DURTAL"
+            },
+            {
+                "CodeHippodrome": "ZD05",
+                "LibelleLong": "DUSSELDORF"
+            },
+            {
+                "CodeHippodrome": "ZA11",
+                "LibelleLong": "EAGLE FARM"
+            },
+            {
+                "CodeHippodrome": "0517",
+                "LibelleLong": "EAUZE"
+            },
+            {
+                "CodeHippodrome": "0214",
+                "LibelleLong": "ECOMMOY"
+            },
+            {
+                "CodeHippodrome": "ZG16",
+                "LibelleLong": "EDINBURGH"
+            },
+            {
+                "CodeHippodrome": "ZF04",
+                "LibelleLong": "EL JADIDA (MAR)"
+            },
+            {
+                "CodeHippodrome": "0406",
+                "LibelleLong": "ELBEUF"
+            },
+            {
+                "CodeHippodrome": "ZU39",
+                "LibelleLong": "ELLIS PARK"
+            },
+            {
+                "CodeHippodrome": "ZU49",
+                "LibelleLong": "EMERALD DOWNS"
+            },
+            {
+                "CodeHippodrome": "0039",
+                "LibelleLong": "ENGHIEN MIDI"
+            },
+            {
+                "CodeHippodrome": "0009",
+                "LibelleLong": "ENGHIEN-SOISY"
+            },
+            {
+                "CodeHippodrome": "ZG17",
+                "LibelleLong": "EPSOM"
+            },
+            {
+                "CodeHippodrome": "ZD40",
+                "LibelleLong": "ERBACH"
+            },
+            {
+                "CodeHippodrome": "0110",
+                "LibelleLong": "ERBRAY"
+            },
+            {
+                "CodeHippodrome": "0161",
+                "LibelleLong": "ERBRAY MOISDON NOZAY"
+            },
+            {
+                "CodeHippodrome": "ZU48",
+                "LibelleLong": "EVANGELINE DOWNS"
+            },
+            {
+                "CodeHippodrome": "0407",
+                "LibelleLong": "EVREUX"
+            },
+            {
+                "CodeHippodrome": "0008",
+                "LibelleLong": "EVRY"
+            },
+            {
+                "CodeHippodrome": "ZG14",
+                "LibelleLong": "EXETER"
+            },
+            {
+                "CodeHippodrome": "ZU30",
+                "LibelleLong": "FAIR GROUNDS"
+            },
+            {
+                "CodeHippodrome": "ZU77",
+                "LibelleLong": "FAIRMOUNT PARK"
+            },
+            {
+                "CodeHippodrome": "ZU35",
+                "LibelleLong": "FAIRPLEX"
+            },
+            {
+                "CodeHippodrome": "ZF20",
+                "LibelleLong": "FAIRVIEW (Afr. du Sud)"
+            },
+            {
+                "CodeHippodrome": "ZI06",
+                "LibelleLong": "FAIRYHOUSE"
+            },
+            {
+                "CodeHippodrome": "ZG18",
+                "LibelleLong": "FAKENHAM"
+            },
+            {
+                "CodeHippodrome": "0386",
+                "LibelleLong": "FALAISE"
+            },
+            {
+                "CodeHippodrome": "ZU51",
+                "LibelleLong": "FAR HILLS"
+            },
+            {
+                "CodeHippodrome": "ZH06",
+                "LibelleLong": "FEHRALTORF"
+            },
+            {
+                "CodeHippodrome": "0215",
+                "LibelleLong": "FENEU"
+            },
+            {
+                "CodeHippodrome": "0709",
+                "LibelleLong": "FEURS"
+            },
+            {
+                "CodeHippodrome": "ZU31",
+                "LibelleLong": "FINGER LAKES"
+            },
+            {
+                "CodeHippodrome": "ZF26",
+                "LibelleLong": "FLAMINGO PARK (Afr.duSud)"
+            },
+            {
+                "CodeHippodrome": "ZA01",
+                "LibelleLong": "FLEMINGTON"
+            },
+            {
+                "CodeHippodrome": "ZL02",
+                "LibelleLong": "FLORENCE"
+            },
+            {
+                "CodeHippodrome": "ZG19",
+                "LibelleLong": "FOLKESTONE"
+            },
+            {
+                "CodeHippodrome": "ZU61",
+                "LibelleLong": "FONNER PARK"
+            },
+            {
+                "CodeHippodrome": "0408",
+                "LibelleLong": "FONTAINEBLEAU"
+            },
+            {
+                "CodeHippodrome": "ZG20",
+                "LibelleLong": "FONTWELL"
+            },
+            {
+                "CodeHippodrome": "ZC02",
+                "LibelleLong": "FORT ERIE"
+            },
+            {
+                "CodeHippodrome": "0111",
+                "LibelleLong": "FOUGERES"
+            },
+            {
+                "CodeHippodrome": "ZD06",
+                "LibelleLong": "FRANCFORT"
+            },
+            {
+                "CodeHippodrome": "ZH02",
+                "LibelleLong": "FRAUENFELD"
+            },
+            {
+                "CodeHippodrome": "ZJ06",
+                "LibelleLong": "FUKUSHIMA"
+            },
+            {
+                "CodeHippodrome": "ZJ22",
+                "LibelleLong": "FUNABASHI"
+            },
+            {
+                "CodeHippodrome": "0518",
+                "LibelleLong": "GABARRET"
+            },
+            {
+                "CodeHippodrome": "ZI07",
+                "LibelleLong": "GALWAY"
+            },
+            {
+                "CodeHippodrome": "ZU10",
+                "LibelleLong": "GARDEN STATE"
+            },
+            {
+                "CodeHippodrome": "ZSA7",
+                "LibelleLong": "GAVEA (Rio de Janeiro)"
+            },
+            {
+                "CodeHippodrome": "ZA14",
+                "LibelleLong": "GEELONG"
+            },
+            {
+                "CodeHippodrome": "ZD07",
+                "LibelleLong": "GELSENKIRCHEN"
+            },
+            {
+                "CodeHippodrome": "0519",
+                "LibelleLong": "GEMOZAC"
+            },
+            {
+                "CodeHippodrome": "ZF08",
+                "LibelleLong": "GHANTOOT"
+            },
+            {
+                "CodeHippodrome": "ZU11",
+                "LibelleLong": "GOLDEN GATE"
+            },
+            {
+                "CodeHippodrome": "ZG21",
+                "LibelleLong": "GOODWOOD"
+            },
+            {
+                "CodeHippodrome": "ZD42",
+                "LibelleLong": "GOTHA"
+            },
+            {
+                "CodeHippodrome": "ZI08",
+                "LibelleLong": "GOWRAN PARK"
+            },
+            {
+                "CodeHippodrome": "0323",
+                "LibelleLong": "GRAIGNES"
+            },
+            {
+                "CodeHippodrome": "0520",
+                "LibelleLong": "GRAMAT"
+            },
+            {
+                "CodeHippodrome": "0312",
+                "LibelleLong": "GRANVILLE-ST PAIR SUR MER"
+            },
+            {
+                "CodeHippodrome": "ZG65",
+                "LibelleLong": "GREAT LEIGHS"
+            },
+            {
+                "CodeHippodrome": "0521",
+                "LibelleLong": "GRENADE SUR GARONNE"
+            },
+            {
+                "CodeHippodrome": "ZF13",
+                "LibelleLong": "GREYVILLE"
+            },
+            {
+                "CodeHippodrome": "ZB02",
+                "LibelleLong": "GROENENDAAL"
+            },
+            {
+                "CodeHippodrome": "ZL03",
+                "LibelleLong": "GROSSETO"
+            },
+            {
+                "CodeHippodrome": "Z910",
+                "LibelleLong": "GUADELOUPE (KARUKERA)"
+            },
+            {
+                "CodeHippodrome": "9920",
+                "LibelleLong": "GUADELOUPE (KARUKERA)"
+            },
+            {
+                "CodeHippodrome": "0112",
+                "LibelleLong": "GUEMENE-PENFAO"
+            },
+            {
+                "CodeHippodrome": "0113",
+                "LibelleLong": "GUER-COETQUIDAN"
+            },
+            {
+                "CodeHippodrome": "0114",
+                "LibelleLong": "GUERLESQUIN"
+            },
+            {
+                "CodeHippodrome": "0115",
+                "LibelleLong": "GUINGAMP"
+            },
+            {
+                "CodeHippodrome": "ZU12",
+                "LibelleLong": "GULFSTREAM"
+            },
+            {
+                "CodeHippodrome": "9940",
+                "LibelleLong": "GUYANE"
+            },
+            {
+                "CodeHippodrome": "ZJ01",
+                "LibelleLong": "HAKODATE"
+            },
+            {
+                "CodeHippodrome": "ZD17",
+                "LibelleLong": "HALLE"
+            },
+            {
+                "CodeHippodrome": "ZD08",
+                "LibelleLong": "HAMBOURG HORN (Allemagne)"
+            },
+            {
+                "CodeHippodrome": "ZG22",
+                "LibelleLong": "HAMILTON"
+            },
+            {
+                "CodeHippodrome": "ZD09",
+                "LibelleLong": "HANOVRE"
+            },
+            {
+                "CodeHippodrome": "ZJ10",
+                "LibelleLong": "HANSHIN"
+            },
+            {
+                "CodeHippodrome": "ZK01",
+                "LibelleLong": "HAPPY VALLEY"
+            },
+            {
+                "CodeHippodrome": "ZD19",
+                "LibelleLong": "HASSLOCH"
+            },
+            {
+                "CodeHippodrome": "ZC03",
+                "LibelleLong": "HASTINGS PARK"
+            },
+            {
+                "CodeHippodrome": "ZU40",
+                "LibelleLong": "HAWTHORNE"
+            },
+            {
+                "CodeHippodrome": "ZG23",
+                "LibelleLong": "HAYDOCK"
+            },
+            {
+                "CodeHippodrome": "ZG24",
+                "LibelleLong": "HEREFORD"
+            },
+            {
+                "CodeHippodrome": "ZD34",
+                "LibelleLong": "HERSCHBERG"
+            },
+            {
+                "CodeHippodrome": "ZD22",
+                "LibelleLong": "HERXHEIM"
+            },
+            {
+                "CodeHippodrome": "ZG25",
+                "LibelleLong": "HEXHAM"
+            },
+            {
+                "CodeHippodrome": "ZU22",
+                "LibelleLong": "HIALEAH PARK"
+            },
+            {
+                "CodeHippodrome": "ZD10",
+                "LibelleLong": "HIP.ALLEMAND"
+            },
+            {
+                "CodeHippodrome": "ZF99",
+                "LibelleLong": "HIPPODROME AFRICAIN"
+            },
+            {
+                "CodeHippodrome": "ZF90",
+                "LibelleLong": "HIPPODROME ALGERIEN"
+            },
+            {
+                "CodeHippodrome": "ZD99",
+                "LibelleLong": "HIPPODROME ALLEMAND"
+            },
+            {
+                "CodeHippodrome": "ZU99",
+                "LibelleLong": "HIPPODROME AMERICAIN"
+            },
+            {
+                "CodeHippodrome": "ZS99",
+                "LibelleLong": "HIPPODROME AMERIQUE SUD"
+            },
+            {
+                "CodeHippodrome": "ZG99",
+                "LibelleLong": "HIPPODROME ANGLAIS"
+            },
+            {
+                "CodeHippodrome": "ZS90",
+                "LibelleLong": "HIPPODROME ARGENTIN"
+            },
+            {
+                "CodeHippodrome": "ZA99",
+                "LibelleLong": "HIPPODROME AUSTRALIEN"
+            },
+            {
+                "CodeHippodrome": "ZR99",
+                "LibelleLong": "HIPPODROME AUTRICHIEN"
+            },
+            {
+                "CodeHippodrome": "ZB99",
+                "LibelleLong": "HIPPODROME BELGE"
+            },
+            {
+                "CodeHippodrome": "ZS91",
+                "LibelleLong": "HIPPODROME BOLIVIEN"
+            },
+            {
+                "CodeHippodrome": "ZS92",
+                "LibelleLong": "HIPPODROME BRESILIEN"
+            },
+            {
+                "CodeHippodrome": "ZQ94",
+                "LibelleLong": "HIPPODROME BULGARE"
+            },
+            {
+                "CodeHippodrome": "ZC99",
+                "LibelleLong": "HIPPODROME CANADIEN"
+            },
+            {
+                "CodeHippodrome": "ZS93",
+                "LibelleLong": "HIPPODROME CHILIEN"
+            },
+            {
+                "CodeHippodrome": "ZS94",
+                "LibelleLong": "HIPPODROME COLOMBIEN"
+            },
+            {
+                "CodeHippodrome": "2050",
+                "LibelleLong": "HIPPODROME CORSE"
+            },
+            {
+                "CodeHippodrome": "ZN96",
+                "LibelleLong": "HIPPODROME DANOIS"
+            },
+            {
+                "CodeHippodrome": "ZK99",
+                "LibelleLong": "HIPPODROME DE HONG-KONG"
+            },
+            {
+                "CodeHippodrome": "ZE99",
+                "LibelleLong": "HIPPODROME ESPAGNOL"
+            },
+            {
+                "CodeHippodrome": "ZZ99",
+                "LibelleLong": "HIPPODROME ETRANGER"
+            },
+            {
+                "CodeHippodrome": "ZN97",
+                "LibelleLong": "HIPPODROME FINLANDAIS"
+            },
+            {
+                "CodeHippodrome": "ZO99",
+                "LibelleLong": "HIPPODROME HOLLANDAIS"
+            },
+            {
+                "CodeHippodrome": "ZI99",
+                "LibelleLong": "HIPPODROME IRLANDAIS"
+            },
+            {
+                "CodeHippodrome": "ZL99",
+                "LibelleLong": "HIPPODROME ITALIEN"
+            },
+            {
+                "CodeHippodrome": "ZJ99",
+                "LibelleLong": "HIPPODROME JAPONAIS"
+            },
+            {
+                "CodeHippodrome": "ZV90",
+                "LibelleLong": "HIPPODROME MALAISIE"
+            },
+            {
+                "CodeHippodrome": "ZF91",
+                "LibelleLong": "HIPPODROME MAROCAIN"
+            },
+            {
+                "CodeHippodrome": "ZX99",
+                "LibelleLong": "HIPPODROME MEXICAIN"
+            },
+            {
+                "CodeHippodrome": "ZA98",
+                "LibelleLong": "HIPPODROME NEO-ZELANDAIS"
+            },
+            {
+                "CodeHippodrome": "ZN98",
+                "LibelleLong": "HIPPODROME NORVEGIEN"
+            },
+            {
+                "CodeHippodrome": "ZP99",
+                "LibelleLong": "HIPPODROME PANAMA"
+            },
+            {
+                "CodeHippodrome": "ZS95",
+                "LibelleLong": "HIPPODROME PARAGUAYEN"
+            },
+            {
+                "CodeHippodrome": "ZS96",
+                "LibelleLong": "HIPPODROME PERUVIEN"
+            },
+            {
+                "CodeHippodrome": "ZQ96",
+                "LibelleLong": "HIPPODROME POLONAIS"
+            },
+            {
+                "CodeHippodrome": "ZQ99",
+                "LibelleLong": "HIPPODROME REPUB.TCHEQUE"
+            },
+            {
+                "CodeHippodrome": "ZQ97",
+                "LibelleLong": "HIPPODROME ROUMAIN"
+            },
+            {
+                "CodeHippodrome": "ZF92",
+                "LibelleLong": "HIPPODROME SENEGALAIS"
+            },
+            {
+                "CodeHippodrome": "ZQ98",
+                "LibelleLong": "HIPPODROME SLOVAQUE"
+            },
+            {
+                "CodeHippodrome": "ZY01",
+                "LibelleLong": "HIPPODROME SLOVENE"
+            },
+            {
+                "CodeHippodrome": "ZF93",
+                "LibelleLong": "HIPPODROME SUD AFRICAIN"
+            },
+            {
+                "CodeHippodrome": "ZN99",
+                "LibelleLong": "HIPPODROME SUEDOIS"
+            },
+            {
+                "CodeHippodrome": "ZH99",
+                "LibelleLong": "HIPPODROME SUISSE"
+            },
+            {
+                "CodeHippodrome": "ZF94",
+                "LibelleLong": "HIPPODROME TUNISIEN"
+            },
+            {
+                "CodeHippodrome": "ZT99",
+                "LibelleLong": "HIPPODROME TURQUE"
+            },
+            {
+                "CodeHippodrome": "ZS97",
+                "LibelleLong": "HIPPODROME URUGUAYEN"
+            },
+            {
+                "CodeHippodrome": "ZS98",
+                "LibelleLong": "HIPPODROME VENEZUELIEN"
+            },
+            {
+                "CodeHippodrome": "ZYUG",
+                "LibelleLong": "HIPPODROME YOUGOSLAVE"
+            },
+            {
+                "CodeHippodrome": "0911",
+                "LibelleLong": "HOERDT MIDI"
+            },
+            {
+                "CodeHippodrome": "ZU13",
+                "LibelleLong": "HOLLYWOOD PARK"
+            },
+            {
+                "CodeHippodrome": "ZD31",
+                "LibelleLong": "HONZRATH"
+            },
+            {
+                "CodeHippodrome": "ZD41",
+                "LibelleLong": "HOOKSIEL"
+            },
+            {
+                "CodeHippodrome": "ZU58",
+                "LibelleLong": "HOOSIER PARK"
+            },
+            {
+                "CodeHippodrome": "ZD11",
+                "LibelleLong": "HOPPEGARTEN (BERLIN)"
+            },
+            {
+                "CodeHippodrome": "ZG26",
+                "LibelleLong": "HUNTINGDON"
+            },
+            {
+                "CodeHippodrome": "0607",
+                "LibelleLong": "HYERES"
+            },
+            {
+                "CodeHippodrome": "ZF10",
+                "LibelleLong": "ILE MAURICE"
+            },
+            {
+                "CodeHippodrome": "0409",
+                "LibelleLong": "ILLIERS"
+            },
+            {
+                "CodeHippodrome": "ZINT",
+                "LibelleLong": "INTERNATIONAL"
+            },
+            {
+                "CodeHippodrome": "0313",
+                "LibelleLong": "ISIGNY SUR MER"
+            },
+            {
+                "CodeHippodrome": "ZN03",
+                "LibelleLong": "JAGERSRO"
+            },
+            {
+                "CodeHippodrome": "0216",
+                "LibelleLong": "JALLAIS"
+            },
+            {
+                "CodeHippodrome": "0116",
+                "LibelleLong": "JANZE"
+            },
+            {
+                "CodeHippodrome": "0522",
+                "LibelleLong": "JARNAC"
+            },
+            {
+                "CodeHippodrome": "ZF97",
+                "LibelleLong": "JEBEL ALI"
+            },
+            {
+                "CodeHippodrome": "ZG62",
+                "LibelleLong": "JERSEY"
+            },
+            {
+                "CodeHippodrome": "0117",
+                "LibelleLong": "JOSSELIN"
+            },
+            {
+                "CodeHippodrome": "ZJ16",
+                "LibelleLong": "KAMIYAMA"
+            },
+            {
+                "CodeHippodrome": "ZJ08",
+                "LibelleLong": "KANAZAWA"
+            },
+            {
+                "CodeHippodrome": "ZQ04",
+                "LibelleLong": "KARLOVY VARY(REP.TCHEQUE)"
+            },
+            {
+                "CodeHippodrome": "9801",
+                "LibelleLong": "KARLSHORST (Berlin)"
+            },
+            {
+                "CodeHippodrome": "ZD39",
+                "LibelleLong": "KARLSRUHE"
+            },
+            {
+                "CodeHippodrome": "ZJ12",
+                "LibelleLong": "KASAMATSU"
+            },
+            {
+                "CodeHippodrome": "ZJ18",
+                "LibelleLong": "KAWASAKI"
+            },
+            {
+                "CodeHippodrome": "ZRU3",
+                "LibelleLong": "KAZAN (RUS)"
+            },
+            {
+                "CodeHippodrome": "ZU14",
+                "LibelleLong": "KEENELAND (USA)"
+            },
+            {
+                "CodeHippodrome": "ZG27",
+                "LibelleLong": "KELSO"
+            },
+            {
+                "CodeHippodrome": "ZA16",
+                "LibelleLong": "KEMBLA GRANGE"
+            },
+            {
+                "CodeHippodrome": "ZG28",
+                "LibelleLong": "KEMPTON PARK"
+            },
+            {
+                "CodeHippodrome": "ZF11",
+                "LibelleLong": "KENILWORTH"
+            },
+            {
+                "CodeHippodrome": "ZFM3",
+                "LibelleLong": "KENITRA (MAR)"
+            },
+            {
+                "CodeHippodrome": "ZU53",
+                "LibelleLong": "KENTUCKY DOWNS"
+            },
+            {
+                "CodeHippodrome": "ZFM1",
+                "LibelleLong": "KHEMISSET (MAR)"
+            },
+            {
+                "CodeHippodrome": "ZI29",
+                "LibelleLong": "KILBEGGAN"
+            },
+            {
+                "CodeHippodrome": "ZI18",
+                "LibelleLong": "KILLARNEY"
+            },
+            {
+                "CodeHippodrome": "ZSAK",
+                "LibelleLong": "KING ABDULAZIZ"
+            },
+            {
+                "CodeHippodrome": "ZN01",
+                "LibelleLong": "KLAMPENBORG"
+            },
+            {
+                "CodeHippodrome": "ZJ17",
+                "LibelleLong": "KOKURA"
+            },
+            {
+                "CodeHippodrome": "ZD12",
+                "LibelleLong": "KREFELD"
+            },
+            {
+                "CodeHippodrome": "ZJ02",
+                "LibelleLong": "KYOTO"
+            },
+            {
+                "CodeHippodrome": "0805",
+                "LibelleLong": "LA CAPELLE"
+            },
+            {
+                "CodeHippodrome": "0246",
+                "LibelleLong": "LA CHARTRE-SUR-LE-LOIR"
+            },
+            {
+                "CodeHippodrome": "0381",
+                "LibelleLong": "LA FERTE MACE"
+            },
+            {
+                "CodeHippodrome": "0253",
+                "LibelleLong": "LA FERTE-BERNARD"
+            },
+            {
+                "CodeHippodrome": "0118",
+                "LibelleLong": "LA GACILLY"
+            },
+            {
+                "CodeHippodrome": "0119",
+                "LibelleLong": "LA GUERCHE-DE-BRETAGNE"
+            },
+            {
+                "CodeHippodrome": "0710",
+                "LibelleLong": "LA GUERCHE-NEVERS"
+            },
+            {
+                "CodeHippodrome": "0120",
+                "LibelleLong": "LA MARTYRE-LANDERNEAU"
+            },
+            {
+                "CodeHippodrome": "ZSA2",
+                "LibelleLong": "LA PLATA (ARG)"
+            },
+            {
+                "CodeHippodrome": "0525",
+                "LibelleLong": "LA REOLE"
+            },
+            {
+                "CodeHippodrome": "0217",
+                "LibelleLong": "LA ROCHE POSAY"
+            },
+            {
+                "CodeHippodrome": "0124",
+                "LibelleLong": "LA ROCHE SUR YON"
+            },
+            {
+                "CodeHippodrome": "ZE12",
+                "LibelleLong": "LA SENIA"
+            },
+            {
+                "CodeHippodrome": "0724",
+                "LibelleLong": "LA SOIE MIDI"
+            },
+            {
+                "CodeHippodrome": "0492",
+                "LibelleLong": "LA SOLLE MIDI"
+            },
+            {
+                "CodeHippodrome": "0550",
+                "LibelleLong": "LA TESTE DE BUCH"
+            },
+            {
+                "CodeHippodrome": "0587",
+                "LibelleLong": "LA TESTE MIDI"
+            },
+            {
+                "CodeHippodrome": "ZD26",
+                "LibelleLong": "LAHR-KURZELL"
+            },
+            {
+                "CodeHippodrome": "0121",
+                "LibelleLong": "LAMBALLE"
+            },
+            {
+                "CodeHippodrome": "ZL18",
+                "LibelleLong": "LANCIANO"
+            },
+            {
+                "CodeHippodrome": "0122",
+                "LibelleLong": "LANDIVISIAU"
+            },
+            {
+                "CodeHippodrome": "0523",
+                "LibelleLong": "LANGON-LIBOURNE"
+            },
+            {
+                "CodeHippodrome": "0524",
+                "LibelleLong": "LANNEMEZAN"
+            },
+            {
+                "CodeHippodrome": "ZG61",
+                "LibelleLong": "LARKHILL"
+            },
+            {
+                "CodeHippodrome": "ZSU1",
+                "LibelleLong": "LAS PIEDRAS (URY)"
+            },
+            {
+                "CodeHippodrome": "ZA24",
+                "LibelleLong": "LAUNCESTON TASMANIA (Aus)"
+            },
+            {
+                "CodeHippodrome": "ZU15",
+                "LibelleLong": "LAUREL PARK"
+            },
+            {
+                "CodeHippodrome": "0813",
+                "LibelleLong": "LE CROISE MIDI"
+            },
+            {
+                "CodeHippodrome": "0806",
+                "LibelleLong": "LE CROISE-LAROCHE"
+            },
+            {
+                "CodeHippodrome": "0527",
+                "LibelleLong": "LE DORAT"
+            },
+            {
+                "CodeHippodrome": "0256",
+                "LibelleLong": "LE LION MIDI"
+            },
+            {
+                "CodeHippodrome": "0218",
+                "LibelleLong": "LE LION-D'ANGERS"
+            },
+            {
+                "CodeHippodrome": "0219",
+                "LibelleLong": "LE LOUROUX-BECONNAIS"
+            },
+            {
+                "CodeHippodrome": "0220",
+                "LibelleLong": "LE LUDE"
+            },
+            {
+                "CodeHippodrome": "0221",
+                "LibelleLong": "LE MANS"
+            },
+            {
+                "CodeHippodrome": "0222",
+                "LibelleLong": "LE MAY-SUR-EVRE"
+            },
+            {
+                "CodeHippodrome": "0314",
+                "LibelleLong": "LE MERLERAULT"
+            },
+            {
+                "CodeHippodrome": "0126",
+                "LibelleLong": "LE PERTRE"
+            },
+            {
+                "CodeHippodrome": "0315",
+                "LibelleLong": "LE PIN AU HARAS"
+            },
+            {
+                "CodeHippodrome": "0807",
+                "LibelleLong": "LE QUESNOY"
+            },
+            {
+                "CodeHippodrome": "0316",
+                "LibelleLong": "LE SAP"
+            },
+            {
+                "CodeHippodrome": "0020",
+                "LibelleLong": "LE STADE DE FRANCE"
+            },
+            {
+                "CodeHippodrome": "0808",
+                "LibelleLong": "LE TOUQUET"
+            },
+            {
+                "CodeHippodrome": "ZD32",
+                "LibelleLong": "LEBACH"
+            },
+            {
+                "CodeHippodrome": "0125",
+                "LibelleLong": "LE-GRAND-FOUGERAY"
+            },
+            {
+                "CodeHippodrome": "ZG29",
+                "LibelleLong": "LEICESTER"
+            },
+            {
+                "CodeHippodrome": "ZD18",
+                "LibelleLong": "LEIPZIG"
+            },
+            {
+                "CodeHippodrome": "ZI02",
+                "LibelleLong": "LEOPARDSTOWN"
+            },
+            {
+                "CodeHippodrome": "0410",
+                "LibelleLong": "LES ANDELYS"
+            },
+            {
+                "CodeHippodrome": "0127",
+                "LibelleLong": "LES SABLES-D'OLONNE"
+            },
+            {
+                "CodeHippodrome": "0529",
+                "LibelleLong": "LESPARRE"
+            },
+            {
+                "CodeHippodrome": "2053",
+                "LibelleLong": "LEVIE"
+            },
+            {
+                "CodeHippodrome": "ZU23",
+                "LibelleLong": "LEXINGTON"
+            },
+            {
+                "CodeHippodrome": "0530",
+                "LibelleLong": "LIBOURNE"
+            },
+            {
+                "CodeHippodrome": "0711",
+                "LibelleLong": "LIGNIERES"
+            },
+            {
+                "CodeHippodrome": "ZS84",
+                "LibelleLong": "LIMA (PEROU)"
+            },
+            {
+                "CodeHippodrome": "ZI09",
+                "LibelleLong": "LIMERICK"
+            },
+            {
+                "CodeHippodrome": "0531",
+                "LibelleLong": "LIMOGES"
+            },
+            {
+                "CodeHippodrome": "ZG30",
+                "LibelleLong": "LINGFIELD"
+            },
+            {
+                "CodeHippodrome": "0382",
+                "LibelleLong": "LISIEUX"
+            },
+            {
+                "CodeHippodrome": "0608",
+                "LibelleLong": "L'ISLE-SUR-SORGUE"
+            },
+            {
+                "CodeHippodrome": "ZI19",
+                "LibelleLong": "LISTOWEL"
+            },
+            {
+                "CodeHippodrome": "ZU78",
+                "LibelleLong": "LITTLE EVERGLADES"
+            },
+            {
+                "CodeHippodrome": "ZL04",
+                "LibelleLong": "LIVOURNE"
+            },
+            {
+                "CodeHippodrome": "ZU43",
+                "LibelleLong": "LONE STAR"
+            },
+            {
+                "CodeHippodrome": "ZU16",
+                "LibelleLong": "LONGACRES"
+            },
+            {
+                "CodeHippodrome": "0031",
+                "LibelleLong": "LONGCHAMP MIDI"
+            },
+            {
+                "CodeHippodrome": "0223",
+                "LibelleLong": "LONGUE-JUMELLES"
+            },
+            {
+                "CodeHippodrome": "ZU55",
+                "LibelleLong": "LOS ALAMITOS"
+            },
+            {
+                "CodeHippodrome": "0128",
+                "LibelleLong": "LOUDEAC"
+            },
+            {
+                "CodeHippodrome": "ZU26",
+                "LibelleLong": "LOUISIANA DOWNS"
+            },
+            {
+                "CodeHippodrome": "ZH03",
+                "LibelleLong": "LUCERNE"
+            },
+            {
+                "CodeHippodrome": "0129",
+                "LibelleLong": "LUCON"
+            },
+            {
+                "CodeHippodrome": "ZG31",
+                "LibelleLong": "LUDLOW"
+            },
+            {
+                "CodeHippodrome": "0532",
+                "LibelleLong": "LUXE"
+            },
+            {
+                "CodeHippodrome": "0713",
+                "LibelleLong": "LYON LA SOIE"
+            },
+            {
+                "CodeHippodrome": "0712",
+                "LibelleLong": "LYON PARILLY"
+            },
+            {
+                "CodeHippodrome": "ZQ08",
+                "LibelleLong": "LYSA NAD LABEM"
+            },
+            {
+                "CodeHippodrome": "ZM01",
+                "LibelleLong": "MACAO"
+            },
+            {
+                "CodeHippodrome": "0130",
+                "LibelleLong": "MACHECOUL"
+            },
+            {
+                "CodeHippodrome": "Z920",
+                "LibelleLong": "MADININA (MARTINIQUE)"
+            },
+            {
+                "CodeHippodrome": "ZE01",
+                "LibelleLong": "MADRID"
+            },
+            {
+                "CodeHippodrome": "ZD20",
+                "LibelleLong": "MAGDEBURG"
+            },
+            {
+                "CodeHippodrome": "ZR97",
+                "LibelleLong": "MAGNA RACINO"
+            },
+            {
+                "CodeHippodrome": "ZH07",
+                "LibelleLong": "MAIENFELD"
+            },
+            {
+                "CodeHippodrome": "0035",
+                "LibelleLong": "MAISONS MIDI"
+            },
+            {
+                "CodeHippodrome": "0005",
+                "LibelleLong": "MAISONS-LAFFITTE"
+            },
+            {
+                "CodeHippodrome": "0131",
+                "LibelleLong": "MALESTROIT"
+            },
+            {
+                "CodeHippodrome": "ZI10",
+                "LibelleLong": "MALLOW"
+            },
+            {
+                "CodeHippodrome": "ZF24",
+                "LibelleLong": "MALTA"
+            },
+            {
+                "CodeHippodrome": "0224",
+                "LibelleLong": "MAMERS"
+            },
+            {
+                "CodeHippodrome": "ZE13",
+                "LibelleLong": "MANACOR"
+            },
+            {
+                "CodeHippodrome": "0533",
+                "LibelleLong": "MANCIET"
+            },
+            {
+                "CodeHippodrome": "ZD21",
+                "LibelleLong": "MANNHEIM"
+            },
+            {
+                "CodeHippodrome": "0534",
+                "LibelleLong": "MANSLE"
+            },
+            {
+                "CodeHippodrome": "ZG32",
+                "LibelleLong": "MARKET RASEN"
+            },
+            {
+                "CodeHippodrome": "ZS86",
+                "LibelleLong": "MARONAS"
+            },
+            {
+                "CodeHippodrome": "0610",
+                "LibelleLong": "MARSEILLE BORELY"
+            },
+            {
+                "CodeHippodrome": "0609",
+                "LibelleLong": "MARSEILLE PONT DE VIVAUX"
+            },
+            {
+                "CodeHippodrome": "9910",
+                "LibelleLong": "MARTINIQUE (CARRERE)"
+            },
+            {
+                "CodeHippodrome": "0132",
+                "LibelleLong": "MATIGNON"
+            },
+            {
+                "CodeHippodrome": "0133",
+                "LibelleLong": "MAURE-DE-BRETAGNE"
+            },
+            {
+                "CodeHippodrome": "0134",
+                "LibelleLong": "MAURON"
+            },
+            {
+                "CodeHippodrome": "ZU17",
+                "LibelleLong": "MEADOWLANDS"
+            },
+            {
+                "CodeHippodrome": "ZD37",
+                "LibelleLong": "MEISSENHEIM"
+            },
+            {
+                "CodeHippodrome": "ZFM2",
+                "LibelleLong": "MEKNES (MAR)"
+            },
+            {
+                "CodeHippodrome": "0225",
+                "LibelleLong": "MERAL"
+            },
+            {
+                "CodeHippodrome": "ZL05",
+                "LibelleLong": "MERANO"
+            },
+            {
+                "CodeHippodrome": "0226",
+                "LibelleLong": "MESLAY-DU-MAINE"
+            },
+            {
+                "CodeHippodrome": "ZF88",
+                "LibelleLong": "MEYDAN"
+            },
+            {
+                "CodeHippodrome": "ZU59",
+                "LibelleLong": "MIDDLEBURG"
+            },
+            {
+                "CodeHippodrome": "ZD33",
+                "LibelleLong": "MIESAU"
+            },
+            {
+                "CodeHippodrome": "ZE08",
+                "LibelleLong": "MIJAS"
+            },
+            {
+                "CodeHippodrome": "ZL06",
+                "LibelleLong": "MILAN"
+            },
+            {
+                "CodeHippodrome": "ZU73",
+                "LibelleLong": "MINERAL SPRINGS"
+            },
+            {
+                "CodeHippodrome": "ZJ11",
+                "LibelleLong": "MIZUSAWA"
+            },
+            {
+                "CodeHippodrome": "0227",
+                "LibelleLong": "MOLIERES"
+            },
+            {
+                "CodeHippodrome": "0247",
+                "LibelleLong": "MONDOUBLEAU"
+            },
+            {
+                "CodeHippodrome": "ZU25",
+                "LibelleLong": "MONMOUTH PARK"
+            },
+            {
+                "CodeHippodrome": "0551",
+                "LibelleLong": "MONPAZIER"
+            },
+            {
+                "CodeHippodrome": "ZB06",
+                "LibelleLong": "MONS-GHLIN"
+            },
+            {
+                "CodeHippodrome": "0135",
+                "LibelleLong": "MONTAIGU"
+            },
+            {
+                "CodeHippodrome": "0535",
+                "LibelleLong": "MONTAUBAN"
+            },
+            {
+                "CodeHippodrome": "0536",
+                "LibelleLong": "MONT-DE-MARSAN"
+            },
+            {
+                "CodeHippodrome": "0537",
+                "LibelleLong": "MONTENDRE"
+            },
+            {
+                "CodeHippodrome": "0902",
+                "LibelleLong": "MONTIER-EN-DER"
+            },
+            {
+                "CodeHippodrome": "0538",
+                "LibelleLong": "MONTIGNAC"
+            },
+            {
+                "CodeHippodrome": "0715",
+                "LibelleLong": "MONTLUCON-NERIS"
+            },
+            {
+                "CodeHippodrome": "0248",
+                "LibelleLong": "MONTMIRAIL"
+            },
+            {
+                "CodeHippodrome": "ZU75",
+                "LibelleLong": "MONTPELIER"
+            },
+            {
+                "CodeHippodrome": "0228",
+                "LibelleLong": "MONTREVAULT"
+            },
+            {
+                "CodeHippodrome": "ZA02",
+                "LibelleLong": "MOONEE VALLEY"
+            },
+            {
+                "CodeHippodrome": "ZJ20",
+                "LibelleLong": "MORIOKA"
+            },
+            {
+                "CodeHippodrome": "0136",
+                "LibelleLong": "MORLAIX"
+            },
+            {
+                "CodeHippodrome": "ZA13",
+                "LibelleLong": "MORPHETTVILLE"
+            },
+            {
+                "CodeHippodrome": "0317",
+                "LibelleLong": "MORTAGNE AU PERCHE"
+            },
+            {
+                "CodeHippodrome": "ZQ93",
+                "LibelleLong": "MOSCOU"
+            },
+            {
+                "CodeHippodrome": "ZQ07",
+                "LibelleLong": "MOST (REPUB.TCHEQUE)"
+            },
+            {
+                "CodeHippodrome": "0716",
+                "LibelleLong": "MOULINS"
+            },
+            {
+                "CodeHippodrome": "0725",
+                "LibelleLong": "MOULINS MIDI"
+            },
+            {
+                "CodeHippodrome": "0318",
+                "LibelleLong": "MOULINS-LA-MARCHE"
+            },
+            {
+                "CodeHippodrome": "ZU65",
+                "LibelleLong": "MOUNTAINEER PARK"
+            },
+            {
+                "CodeHippodrome": "ZD13",
+                "LibelleLong": "MULHEIM"
+            },
+            {
+                "CodeHippodrome": "ZD14",
+                "LibelleLong": "MUNICH-RIEM (Allemagne)"
+            },
+            {
+                "CodeHippodrome": "ZG63",
+                "LibelleLong": "MUSSELBURGH (GB)"
+            },
+            {
+                "CodeHippodrome": "ZI11",
+                "LibelleLong": "NAAS"
+            },
+            {
+                "CodeHippodrome": "ZF98",
+                "LibelleLong": "NAD AL SHEBA"
+            },
+            {
+                "CodeHippodrome": "ZJ24",
+                "LibelleLong": "NAGOYA"
+            },
+            {
+                "CodeHippodrome": "ZJ23",
+                "LibelleLong": "NAKATSU"
+            },
+            {
+                "CodeHippodrome": "ZJ03",
+                "LibelleLong": "NAKAYAMA"
+            },
+            {
+                "CodeHippodrome": "zru5",
+                "LibelleLong": "naltchik"
+            },
+            {
+                "CodeHippodrome": "0903",
+                "LibelleLong": "NANCY"
+            },
+            {
+                "CodeHippodrome": "0910",
+                "LibelleLong": "NANCY MIDI"
+            },
+            {
+                "CodeHippodrome": "0137",
+                "LibelleLong": "NANTES"
+            },
+            {
+                "CodeHippodrome": "0170",
+                "LibelleLong": "NANTES MIDI"
+            },
+            {
+                "CodeHippodrome": "ZL07",
+                "LibelleLong": "NAPLES"
+            },
+            {
+                "CodeHippodrome": "ZU70",
+                "LibelleLong": "NASHVILLE"
+            },
+            {
+                "CodeHippodrome": "ZI12",
+                "LibelleLong": "NAVAN"
+            },
+            {
+                "CodeHippodrome": "NC",
+                "LibelleLong": "NC"
+            },
+            {
+                "CodeHippodrome": "0415",
+                "LibelleLong": "NEUFCHATEL-EN-BRAYE"
+            },
+            {
+                "CodeHippodrome": "0229",
+                "LibelleLong": "NEUILLE-PONT-PIERRE"
+            },
+            {
+                "CodeHippodrome": "ZD15",
+                "LibelleLong": "NEUSS"
+            },
+            {
+                "CodeHippodrome": "ZU72",
+                "LibelleLong": "NEW KENT"
+            },
+            {
+                "CodeHippodrome": "ZG33",
+                "LibelleLong": "NEWBURY"
+            },
+            {
+                "CodeHippodrome": "ZA08",
+                "LibelleLong": "NEWCASTLE (AUS)"
+            },
+            {
+                "CodeHippodrome": "ZG34",
+                "LibelleLong": "NEWCASTLE (GBR)"
+            },
+            {
+                "CodeHippodrome": "ZG35",
+                "LibelleLong": "NEWMARKET (GBR)"
+            },
+            {
+                "CodeHippodrome": "ZF17",
+                "LibelleLong": "NEWMARKET (ZAF)"
+            },
+            {
+                "CodeHippodrome": "ZG64",
+                "LibelleLong": "NEWMARKET JULY"
+            },
+            {
+                "CodeHippodrome": "ZG36",
+                "LibelleLong": "NEWTON ABBOT"
+            },
+            {
+                "CodeHippodrome": "ZJ13",
+                "LibelleLong": "NIIGATA"
+            },
+            {
+                "CodeHippodrome": "0614",
+                "LibelleLong": "NIMES"
+            },
+            {
+                "CodeHippodrome": "0138",
+                "LibelleLong": "NIORT"
+            },
+            {
+                "CodeHippodrome": "ZC04",
+                "LibelleLong": "NORTHLANDS PARK"
+            },
+            {
+                "CodeHippodrome": "0139",
+                "LibelleLong": "NORT-SUR-ERDRE"
+            },
+            {
+                "CodeHippodrome": "ZG37",
+                "LibelleLong": "NOTTINGHAM"
+            },
+            {
+                "CodeHippodrome": "9930",
+                "LibelleLong": "NOUVELLE CALEDONIE"
+            },
+            {
+                "CodeHippodrome": "ZL13",
+                "LibelleLong": "NOVI"
+            },
+            {
+                "CodeHippodrome": "0140",
+                "LibelleLong": "NOZAY"
+            },
+            {
+                "CodeHippodrome": "0249",
+                "LibelleLong": "NUEIL-SUR-LAYON"
+            },
+            {
+                "CodeHippodrome": "0230",
+                "LibelleLong": "NUILLE-SUR-VICOIN"
+            },
+            {
+                "CodeHippodrome": "zk04",
+                "LibelleLong": "nurdaulet"
+            },
+            {
+                "CodeHippodrome": "ZA03",
+                "LibelleLong": "OAKBANK"
+            },
+            {
+                "CodeHippodrome": "ZU24",
+                "LibelleLong": "OAKLAWN PARK"
+            },
+            {
+                "CodeHippodrome": "ZU46",
+                "LibelleLong": "OCALA"
+            },
+            {
+                "CodeHippodrome": "ZN05",
+                "LibelleLong": "ODENSE"
+            },
+            {
+                "CodeHippodrome": "zqzq",
+                "LibelleLong": "odessa"
+            },
+            {
+                "CodeHippodrome": "ZJ15",
+                "LibelleLong": "OGURA"
+            },
+            {
+                "CodeHippodrome": "ZJ21",
+                "LibelleLong": "OI"
+            },
+            {
+                "CodeHippodrome": "0611",
+                "LibelleLong": "ORAISON"
+            },
+            {
+                "CodeHippodrome": "0612",
+                "LibelleLong": "ORANGE"
+            },
+            {
+                "CodeHippodrome": "ZE15",
+                "LibelleLong": "ORENSE"
+            },
+            {
+                "CodeHippodrome": "0411",
+                "LibelleLong": "ORLEANS"
+            },
+            {
+                "CodeHippodrome": "ZB03",
+                "LibelleLong": "OSTENDE"
+            },
+            {
+                "CodeHippodrome": "ZE09",
+                "LibelleLong": "OVIEDO"
+            },
+            {
+                "CodeHippodrome": "ZN02",
+                "LibelleLong": "OVREVOLL"
+            },
+            {
+                "CodeHippodrome": "0717",
+                "LibelleLong": "PARAY-LE-MONIAL"
+            },
+            {
+                "CodeHippodrome": "ZQ01",
+                "LibelleLong": "PARDUBICE"
+            },
+            {
+                "CodeHippodrome": "0723",
+                "LibelleLong": "PARILLY MIDI"
+            },
+            {
+                "CodeHippodrome": "0001",
+                "LibelleLong": "PARISLONGCHAMP"
+            },
+            {
+                "CodeHippodrome": "0539",
+                "LibelleLong": "PAU"
+            },
+            {
+                "CodeHippodrome": "0586",
+                "LibelleLong": "PAU MIDI"
+            },
+            {
+                "CodeHippodrome": "ZU54",
+                "LibelleLong": "PENN NATIONAL"
+            },
+            {
+                "CodeHippodrome": "ZG38",
+                "LibelleLong": "PERTH"
+            },
+            {
+                "CodeHippodrome": "ZU42",
+                "LibelleLong": "PHILADELPHIA"
+            },
+            {
+                "CodeHippodrome": "ZI03",
+                "LibelleLong": "PHOENIX PARK"
+            },
+            {
+                "CodeHippodrome": "ZRU1",
+                "LibelleLong": "PIATIGORSK (RUS)"
+            },
+            {
+                "CodeHippodrome": "ZU18",
+                "LibelleLong": "PIMLICO"
+            },
+            {
+                "CodeHippodrome": "ZL08",
+                "LibelleLong": "PISE"
+            },
+            {
+                "CodeHippodrome": "ZU76",
+                "LibelleLong": "PLEASANTON"
+            },
+            {
+                "CodeHippodrome": "0141",
+                "LibelleLong": "PLENEUF-VAL-ANDRE"
+            },
+            {
+                "CodeHippodrome": "0142",
+                "LibelleLong": "PLESSE"
+            },
+            {
+                "CodeHippodrome": "0123",
+                "LibelleLong": "PLESTIN-LES-GREVES"
+            },
+            {
+                "CodeHippodrome": "0143",
+                "LibelleLong": "PLOERMEL"
+            },
+            {
+                "CodeHippodrome": "0144",
+                "LibelleLong": "PLOUESCAT"
+            },
+            {
+                "CodeHippodrome": "ZG39",
+                "LibelleLong": "PLUMPTON"
+            },
+            {
+                "CodeHippodrome": "0231",
+                "LibelleLong": "POITIERS"
+            },
+            {
+                "CodeHippodrome": "0540",
+                "LibelleLong": "POMPADOUR"
+            },
+            {
+                "CodeHippodrome": "0541",
+                "LibelleLong": "PONS"
+            },
+            {
+                "CodeHippodrome": "0145",
+                "LibelleLong": "PONTCHATEAU"
+            },
+            {
+                "CodeHippodrome": "ZG40",
+                "LibelleLong": "PONTEFRACT"
+            },
+            {
+                "CodeHippodrome": "0146",
+                "LibelleLong": "PONTIVY"
+            },
+            {
+                "CodeHippodrome": "0147",
+                "LibelleLong": "PORNICHET"
+            },
+            {
+                "CodeHippodrome": "2054",
+                "LibelleLong": "PORTO VECCHIO"
+            },
+            {
+                "CodeHippodrome": "ZI16",
+                "LibelleLong": "POWERSTONE PARK"
+            },
+            {
+                "CodeHippodrome": "ZQ02",
+                "LibelleLong": "PRAGUE (VELKA CHUCHLE)"
+            },
+            {
+                "CodeHippodrome": "ZU56",
+                "LibelleLong": "PRAIRIE MEADOWS"
+            },
+            {
+                "CodeHippodrome": "ZU80",
+                "LibelleLong": "PRESQUE ISLE"
+            },
+            {
+                "CodeHippodrome": "2055",
+                "LibelleLong": "PROPRIANO"
+            },
+            {
+                "CodeHippodrome": "2056",
+                "LibelleLong": "PRUNELLI DI FIUMORBO"
+            },
+            {
+                "CodeHippodrome": "ZI17",
+                "LibelleLong": "PUNCHESTOWN"
+            },
+            {
+                "CodeHippodrome": "ZD35",
+                "LibelleLong": "QUAKENBRUCK"
+            },
+            {
+                "CodeHippodrome": "0148",
+                "LibelleLong": "QUESTEMBERT"
+            },
+            {
+                "CodeHippodrome": "ZF02",
+                "LibelleLong": "RABAT"
+            },
+            {
+                "CodeHippodrome": "ZU67",
+                "LibelleLong": "RAEFORD"
+            },
+            {
+                "CodeHippodrome": "0412",
+                "LibelleLong": "RAMBOUILLET"
+            },
+            {
+                "CodeHippodrome": "ZF19",
+                "LibelleLong": "RANDJESFONTEIN"
+            },
+            {
+                "CodeHippodrome": "ZA06",
+                "LibelleLong": "RANDWICK"
+            },
+            {
+                "CodeHippodrome": "0319",
+                "LibelleLong": "RANES"
+            },
+            {
+                "CodeHippodrome": "ZG41",
+                "LibelleLong": "REDCAR"
+            },
+            {
+                "CodeHippodrome": "0149",
+                "LibelleLong": "REDON"
+            },
+            {
+                "CodeHippodrome": "ZU57",
+                "LibelleLong": "REMINGTON PARK"
+            },
+            {
+                "CodeHippodrome": "ZU62",
+                "LibelleLong": "RETAMA PARK"
+            },
+            {
+                "CodeHippodrome": "0250",
+                "LibelleLong": "RICHELIEU"
+            },
+            {
+                "CodeHippodrome": "ZU37",
+                "LibelleLong": "RILLITO"
+            },
+            {
+                "CodeHippodrome": "ZSA3",
+                "LibelleLong": "RIO DE JANEIRO (BRZ)"
+            },
+            {
+                "CodeHippodrome": "ZG42",
+                "LibelleLong": "RIPON"
+            },
+            {
+                "CodeHippodrome": "ZU32",
+                "LibelleLong": "RIVER DOWNS"
+            },
+            {
+                "CodeHippodrome": "0232",
+                "LibelleLong": "ROCHEFORT-SUR-LOIRE"
+            },
+            {
+                "CodeHippodrome": "0542",
+                "LibelleLong": "ROCHEFORT-SUR-MER"
+            },
+            {
+                "CodeHippodrome": "ZU29",
+                "LibelleLong": "ROCKINGHAM PARK"
+            },
+            {
+                "CodeHippodrome": "ZL09",
+                "LibelleLong": "ROME"
+            },
+            {
+                "CodeHippodrome": "ZL19",
+                "LibelleLong": "ROME (PMU)"
+            },
+            {
+                "CodeHippodrome": "ZI20",
+                "LibelleLong": "ROSCOMMON"
+            },
+            {
+                "CodeHippodrome": "ZA05",
+                "LibelleLong": "ROSEHILL"
+            },
+            {
+                "CodeHippodrome": "ZRU2",
+                "LibelleLong": "ROSTOV (RUS)"
+            },
+            {
+                "CodeHippodrome": "0150",
+                "LibelleLong": "ROSTRENEN"
+            },
+            {
+                "CodeHippodrome": "0413",
+                "LibelleLong": "ROUEN"
+            },
+            {
+                "CodeHippodrome": "0528",
+                "LibelleLong": "ROYAN LA PALMYRE"
+            },
+            {
+                "CodeHippodrome": "ZSAU",
+                "LibelleLong": "RYAD"
+            },
+            {
+                "CodeHippodrome": "ZD25",
+                "LibelleLong": "SAARBRUCKEN"
+            },
+            {
+                "CodeHippodrome": "0233",
+                "LibelleLong": "SABLE-SUR-SARTHE"
+            },
+            {
+                "CodeHippodrome": "ZJ09",
+                "LibelleLong": "SAGA"
+            },
+            {
+                "CodeHippodrome": "ZH11",
+                "LibelleLong": "SAIGNELEGIER"
+            },
+            {
+                "CodeHippodrome": "0330",
+                "LibelleLong": "SAINT HILAIRE DU HARCOUET"
+            },
+            {
+                "CodeHippodrome": "ZH08",
+                "LibelleLong": "SAINT MORITZ"
+            },
+            {
+                "CodeHippodrome": "0151",
+                "LibelleLong": "SAINT-BRIEUC"
+            },
+            {
+                "CodeHippodrome": "0004",
+                "LibelleLong": "SAINT-CLOUD"
+            },
+            {
+                "CodeHippodrome": "0034",
+                "LibelleLong": "SAINT-CLOUD MIDI"
+            },
+            {
+                "CodeHippodrome": "0234",
+                "LibelleLong": "SAINT-DENIS-DE-GASTINES"
+            },
+            {
+                "CodeHippodrome": "0543",
+                "LibelleLong": "SAINTE LIVRADE SUR LOT"
+            },
+            {
+                "CodeHippodrome": "0544",
+                "LibelleLong": "SAINTES"
+            },
+            {
+                "CodeHippodrome": "0718",
+                "LibelleLong": "SAINT-GALMIER"
+            },
+            {
+                "CodeHippodrome": "0152",
+                "LibelleLong": "SAINT-JEAN-DE-MONTS"
+            },
+            {
+                "CodeHippodrome": "0384",
+                "LibelleLong": "SAINT-LO"
+            },
+            {
+                "CodeHippodrome": "0154",
+                "LibelleLong": "SAINT-MALO"
+            },
+            {
+                "CodeHippodrome": "0153",
+                "LibelleLong": "SAINT-MAXIENT-L'ECOLE"
+            },
+            {
+                "CodeHippodrome": "0809",
+                "LibelleLong": "SAINT-OMER"
+            },
+            {
+                "CodeHippodrome": "0235",
+                "LibelleLong": "SAINT-OUEN-DES-TOITS"
+            },
+            {
+                "CodeHippodrome": "0236",
+                "LibelleLong": "SAINT-PIERRE-LA-COUR"
+            },
+            {
+                "CodeHippodrome": "0320",
+                "LibelleLong": "SAINT-PIERRE-SUR-DIVES"
+            },
+            {
+                "CodeHippodrome": "0155",
+                "LibelleLong": "SAINT-POL-DE-LEON"
+            },
+            {
+                "CodeHippodrome": "0237",
+                "LibelleLong": "SAINT-SATURNIN-DU-LIMET"
+            },
+            {
+                "CodeHippodrome": "ZG43",
+                "LibelleLong": "SALISBURY"
+            },
+            {
+                "CodeHippodrome": "0625",
+                "LibelleLong": "SALON MIDI"
+            },
+            {
+                "CodeHippodrome": "0613",
+                "LibelleLong": "SALON-DE-PROVENCE"
+            },
+            {
+                "CodeHippodrome": "ZU64",
+                "LibelleLong": "SAM HOUSTON"
+            },
+            {
+                "CodeHippodrome": "ZSA1",
+                "LibelleLong": "SAN ISIDRO (ARG)"
+            },
+            {
+                "CodeHippodrome": "ZE02",
+                "LibelleLong": "SAN SEBASTIAN"
+            },
+            {
+                "CodeHippodrome": "ZA04",
+                "LibelleLong": "SANDOWN (AUS)"
+            },
+            {
+                "CodeHippodrome": "ZG44",
+                "LibelleLong": "SANDOWN (GBR)"
+            },
+            {
+                "CodeHippodrome": "ZE05",
+                "LibelleLong": "SANLUCAR"
+            },
+            {
+                "CodeHippodrome": "ZU19",
+                "LibelleLong": "SANTA ANITA"
+            },
+            {
+                "CodeHippodrome": "ZE07",
+                "LibelleLong": "SANTANDER"
+            },
+            {
+                "CodeHippodrome": "ZS88",
+                "LibelleLong": "SANTIAGO (Chili)"
+            },
+            {
+                "CodeHippodrome": "ZJ04",
+                "LibelleLong": "SAPPORO"
+            },
+            {
+                "CodeHippodrome": "ZU20",
+                "LibelleLong": "SARATOGA"
+            },
+            {
+                "CodeHippodrome": "2060",
+                "LibelleLong": "SARTENE"
+            },
+            {
+                "CodeHippodrome": "ZL15",
+                "LibelleLong": "SASSARI"
+            },
+            {
+                "CodeHippodrome": "0238",
+                "LibelleLong": "SAUMUR"
+            },
+            {
+                "CodeHippodrome": "0251",
+                "LibelleLong": "SAUMUR-LE-BREIL"
+            },
+            {
+                "CodeHippodrome": "0156",
+                "LibelleLong": "SAVENAY"
+            },
+            {
+                "CodeHippodrome": "ZF16",
+                "LibelleLong": "SCOTTSVILLE"
+            },
+            {
+                "CodeHippodrome": "ZG45",
+                "LibelleLong": "SEDGEFIELD"
+            },
+            {
+                "CodeHippodrome": "0239",
+                "LibelleLong": "SEGRE"
+            },
+            {
+                "CodeHippodrome": "0240",
+                "LibelleLong": "SEICHES-SUR-LE-LOIR"
+            },
+            {
+                "CodeHippodrome": "0241",
+                "LibelleLong": "SENONNES-POUANCE"
+            },
+            {
+                "CodeHippodrome": "ZV98",
+                "LibelleLong": "SEOUL (Corée du Sud)"
+            },
+            {
+                "CodeHippodrome": "2057",
+                "LibelleLong": "SERRA DI SCOPAMENE"
+            },
+            {
+                "CodeHippodrome": "ZF01",
+                "LibelleLong": "SETTAT (MAR)"
+            },
+            {
+                "CodeHippodrome": "ZE03",
+                "LibelleLong": "SEVILLE"
+            },
+            {
+                "CodeHippodrome": "ZK02",
+                "LibelleLong": "SHA TIN"
+            },
+            {
+                "CodeHippodrome": "ZF09",
+                "LibelleLong": "SHARJAH"
+            },
+            {
+                "CodeHippodrome": "ZL16",
+                "LibelleLong": "SIENNE"
+            },
+            {
+                "CodeHippodrome": "0242",
+                "LibelleLong": "SILLE-LE-GUILLAUME"
+            },
+            {
+                "CodeHippodrome": "ZV91",
+                "LibelleLong": "SINGAPOUR"
+            },
+            {
+                "CodeHippodrome": "ZT02",
+                "LibelleLong": "SIRINYER"
+            },
+            {
+                "CodeHippodrome": "ZI22",
+                "LibelleLong": "SLIGO"
+            },
+            {
+                "CodeHippodrome": "ZQ06",
+                "LibelleLong": "SLUSOVICE (REP.TCHEQUE)"
+            },
+            {
+                "CodeHippodrome": "ZP03",
+                "LibelleLong": "SLUZEWIEC (VARSOVIE)"
+            },
+            {
+                "CodeHippodrome": "ZU41",
+                "LibelleLong": "SOLANO"
+            },
+            {
+                "CodeHippodrome": "ZE11",
+                "LibelleLong": "SOMO"
+            },
+            {
+                "CodeHippodrome": "ZG46",
+                "LibelleLong": "SOUTHWELL"
+            },
+            {
+                "CodeHippodrome": "ZU45",
+                "LibelleLong": "SPORTSMAN'S PARK"
+            },
+            {
+                "CodeHippodrome": "ZB04",
+                "LibelleLong": "STERREBEEK"
+            },
+            {
+                "CodeHippodrome": "0907",
+                "LibelleLong": "STRASBOURG"
+            },
+            {
+                "CodeHippodrome": "ZG47",
+                "LibelleLong": "STRATFORD"
+            },
+            {
+                "CodeHippodrome": "ZN06",
+                "LibelleLong": "STROMSHOLM"
+            },
+            {
+                "CodeHippodrome": "ZU33",
+                "LibelleLong": "SUFFOLK"
+            },
+            {
+                "CodeHippodrome": "ZA22",
+                "LibelleLong": "SUNSHINE COAST"
+            },
+            {
+                "CodeHippodrome": "ZL17",
+                "LibelleLong": "SYRACUSE"
+            },
+            {
+                "CodeHippodrome": "ZN04",
+                "LibelleLong": "TABY"
+            },
+            {
+                "CodeHippodrome": "ZL21",
+                "LibelleLong": "TAGLIACOZZO"
+            },
+            {
+                "CodeHippodrome": "ZJ14",
+                "LibelleLong": "TAKASAKI"
+            },
+            {
+                "CodeHippodrome": "ZU27",
+                "LibelleLong": "TAMPA-BAY"
+            },
+            {
+                "CodeHippodrome": "0552",
+                "LibelleLong": "TARBES"
+            },
+            {
+                "CodeHippodrome": "ZSA6",
+                "LibelleLong": "TARUMA (BRZ)"
+            },
+            {
+                "CodeHippodrome": "ZG48",
+                "LibelleLong": "TAUNTON"
+            },
+            {
+                "CodeHippodrome": "ZU79",
+                "LibelleLong": "THE PLAINS"
+            },
+            {
+                "CodeHippodrome": "ZG49",
+                "LibelleLong": "THIRSK"
+            },
+            {
+                "CodeHippodrome": "ZU44",
+                "LibelleLong": "THISTLEDOWN"
+            },
+            {
+                "CodeHippodrome": "0719",
+                "LibelleLong": "THOISSEY"
+            },
+            {
+                "CodeHippodrome": "0243",
+                "LibelleLong": "THOUARCE"
+            },
+            {
+                "CodeHippodrome": "0157",
+                "LibelleLong": "THOUARS"
+            },
+            {
+                "CodeHippodrome": "ZI13",
+                "LibelleLong": "THURLES"
+            },
+            {
+                "CodeHippodrome": "ZU63",
+                "LibelleLong": "TIMONIUM"
+            },
+            {
+                "CodeHippodrome": "ZI04",
+                "LibelleLong": "TIPPERARY"
+            },
+            {
+                "CodeHippodrome": "ZQ05",
+                "LibelleLong": "TOCHOVICE (REP.TCHEQUE)"
+            },
+            {
+                "CodeHippodrome": "ZJ05",
+                "LibelleLong": "TOKYO"
+            },
+            {
+                "CodeHippodrome": "0545",
+                "LibelleLong": "TOULOUSE"
+            },
+            {
+                "CodeHippodrome": "0555",
+                "LibelleLong": "TOULOUSE MIDI"
+            },
+            {
+                "CodeHippodrome": "0244",
+                "LibelleLong": "TOURS"
+            },
+            {
+                "CodeHippodrome": "ZG50",
+                "LibelleLong": "TOWCESTER"
+            },
+            {
+                "CodeHippodrome": "ZI14",
+                "LibelleLong": "TRALEE"
+            },
+            {
+                "CodeHippodrome": "ZI23",
+                "LibelleLong": "TRAMORE"
+            },
+            {
+                "CodeHippodrome": "ZL12",
+                "LibelleLong": "TREVISE"
+            },
+            {
+                "CodeHippodrome": "ZU68",
+                "LibelleLong": "TRYON"
+            },
+            {
+                "CodeHippodrome": "ZF05",
+                "LibelleLong": "TUNIS"
+            },
+            {
+                "CodeHippodrome": "ZF12",
+                "LibelleLong": "TURFFONTEIN"
+            },
+            {
+                "CodeHippodrome": "ZU28",
+                "LibelleLong": "TURF-PARADISE"
+            },
+            {
+                "CodeHippodrome": "ZU38",
+                "LibelleLong": "TURFWAY-PARK"
+            },
+            {
+                "CodeHippodrome": "ZL10",
+                "LibelleLong": "TURIN"
+            },
+            {
+                "CodeHippodrome": "ZU52",
+                "LibelleLong": "UNIONVILLE"
+            },
+            {
+                "CodeHippodrome": "ZJ19",
+                "LibelleLong": "URAWA"
+            },
+            {
+                "CodeHippodrome": "ZG51",
+                "LibelleLong": "UTTOXETER"
+            },
+            {
+                "CodeHippodrome": "ZF18",
+                "LibelleLong": "VAAL"
+            },
+            {
+                "CodeHippodrome": "ZE04",
+                "LibelleLong": "VALENCE"
+            },
+            {
+                "CodeHippodrome": "ZS89",
+                "LibelleLong": "VALPARAISO SPORTING CLUB"
+            },
+            {
+                "CodeHippodrome": "0158",
+                "LibelleLong": "VANNES"
+            },
+            {
+                "CodeHippodrome": "ZL11",
+                "LibelleLong": "VARESE"
+            },
+            {
+                "CodeHippodrome": "ZP01",
+                "LibelleLong": "VARSOVIE"
+            },
+            {
+                "CodeHippodrome": "ZT03",
+                "LibelleLong": "VELIEFENDI"
+            },
+            {
+                "CodeHippodrome": "ZT88",
+                "LibelleLong": "VELIEFENDI (TURQ.)"
+            },
+            {
+                "CodeHippodrome": "2058",
+                "LibelleLong": "VENACO"
+            },
+            {
+                "CodeHippodrome": "ZD24",
+                "LibelleLong": "VERDEN"
+            },
+            {
+                "CodeHippodrome": "0414",
+                "LibelleLong": "VERNON"
+            },
+            {
+                "CodeHippodrome": "0159",
+                "LibelleLong": "VERTOU"
+            },
+            {
+                "CodeHippodrome": "0904",
+                "LibelleLong": "VESOUL"
+            },
+            {
+                "CodeHippodrome": "0546",
+                "LibelleLong": "VIC-BIGORRE"
+            },
+            {
+                "CodeHippodrome": "0547",
+                "LibelleLong": "VIC-FEZENSAC"
+            },
+            {
+                "CodeHippodrome": "0720",
+                "LibelleLong": "VICHY"
+            },
+            {
+                "CodeHippodrome": "0726",
+                "LibelleLong": "VICHY MIDI"
+            },
+            {
+                "CodeHippodrome": "0727",
+                "LibelleLong": "VICHY-SOIR"
+            },
+            {
+                "CodeHippodrome": "ZR98",
+                "LibelleLong": "VIENNE"
+            },
+            {
+                "CodeHippodrome": "ZE06",
+                "LibelleLong": "VILA-SECA"
+            },
+            {
+                "CodeHippodrome": "0548",
+                "LibelleLong": "VILLENEUVE-DE-MARSAN"
+            },
+            {
+                "CodeHippodrome": "0549",
+                "LibelleLong": "VILLENEUVE-SUR-LOT"
+            },
+            {
+                "CodeHippodrome": "0321",
+                "LibelleLong": "VIMOUTIERS"
+            },
+            {
+                "CodeHippodrome": "0099",
+                "LibelleLong": "VINCENNES"
+            },
+            {
+                "CodeHippodrome": "0322",
+                "LibelleLong": "VIRE"
+            },
+            {
+                "CodeHippodrome": "0160",
+                "LibelleLong": "VITRE"
+            },
+            {
+                "CodeHippodrome": "0721",
+                "LibelleLong": "VITTEAUX"
+            },
+            {
+                "CodeHippodrome": "0906",
+                "LibelleLong": "VITTEL"
+            },
+            {
+                "CodeHippodrome": "0623",
+                "LibelleLong": "VIVAUX MIDI"
+            },
+            {
+                "CodeHippodrome": "ZD38",
+                "LibelleLong": "WALLDORF"
+            },
+            {
+                "CodeHippodrome": "ZB05",
+                "LibelleLong": "WAREGEM"
+            },
+            {
+                "CodeHippodrome": "ZD43",
+                "LibelleLong": "WARENDORF"
+            },
+            {
+                "CodeHippodrome": "ZG53",
+                "LibelleLong": "WARWICK"
+            },
+            {
+                "CodeHippodrome": "ZA09",
+                "LibelleLong": "WARWICK FARM"
+            },
+            {
+                "CodeHippodrome": "ZG55",
+                "LibelleLong": "WETHERBY"
+            },
+            {
+                "CodeHippodrome": "ZI24",
+                "LibelleLong": "WEXFORD"
+            },
+            {
+                "CodeHippodrome": "ZD36",
+                "LibelleLong": "WILDESHAUSEN"
+            },
+            {
+                "CodeHippodrome": "ZG56",
+                "LibelleLong": "WINCANTON"
+            },
+            {
+                "CodeHippodrome": "ZG54",
+                "LibelleLong": "WINDSOR"
+            },
+            {
+                "CodeHippodrome": "0905",
+                "LibelleLong": "WISSEMBOURG"
+            },
+            {
+                "CodeHippodrome": "ZG58",
+                "LibelleLong": "WOLVERHAMPTON"
+            },
+            {
+                "CodeHippodrome": "ZC01",
+                "LibelleLong": "WOODBINE"
+            },
+            {
+                "CodeHippodrome": "ZG57",
+                "LibelleLong": "WORCESTER"
+            },
+            {
+                "CodeHippodrome": "ZU34",
+                "LibelleLong": "YAKIMA"
+            },
+            {
+                "CodeHippodrome": "ZG59",
+                "LibelleLong": "YARMOUTH"
+            },
+            {
+                "CodeHippodrome": "ZG60",
+                "LibelleLong": "YORK"
+            },
+            {
+                "CodeHippodrome": "ZH09",
+                "LibelleLong": "YVERDON"
+            },
+            {
+                "CodeHippodrome": "0435",
+                "LibelleLong": "YVETOT"
+            },
+            {
+                "CodeHippodrome": "2059",
+                "LibelleLong": "ZONZA"
+            },
+            {
+                "CodeHippodrome": "ZH04",
+                "LibelleLong": "ZURICH DIELSDORF"
+            },
+            {
+                "CodeHippodrome": "ZD29",
+                "LibelleLong": "ZWEIBRUCKEN"
+            }
+        ],
+        "race": [
+            "",
+            "PUR SANG",
+            "*ANGLO-ARABE COMPLEMENT*",
+            "*ANGLO-ARABE*",
+            "ANGLO-ARABE",
+            "ANGLO-ARABE DE COMPLEMENT",
+            "ARABE",
+            "CHEVAL AUTRE QUE PUR SANG",
+            "CHEVAL DE SELLE FRANCAIS"
+        ],
+        "age": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "specialite": [
+            {
+                "code": 0,
+                "LibelleLong": "Plat"
+            },
+            {
+                "code": 1,
+                "LibelleLong": "Obstacle / Toutes disciplines"
+            },
+            {
+                "code": 2,
+                "LibelleLong": "Haies"
+            },
+            {
+                "code": 3,
+                "LibelleLong": "Obstacle / Steeple & Cross"
+            },
+            {
+                "code": 4,
+                "LibelleLong": "Tout"
+            }
+        ]
+    },
+    "ajaxUrl": "/fr/frglp_global/ajax"
+}

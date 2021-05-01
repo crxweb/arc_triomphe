@@ -1,0 +1,100 @@
+,Annee,Gagnant,Pays,Père,Jockey,Entraîneur,Propriétaire,Deuxième,Troisième,Quatrième,Cinquième,Temps,Sexe,Age,Is_male,Temps_sec
+0,1920,Comrade,France,Bachelor's Double,F Bullock,P.-P. Gilpin,E. de Saint-Alary,King's Cross,Pieurs,Meddlesome Maid,Embry,"2'39""",M,3,1,159.0
+1,1921,Ksar,France,Brûleur,G. Stern,W.-R. Walton,Mme E. Blanc,Fléchois,Square Measure,Odol,Cid Campeador,"2'34""80",M,3,1,154.8
+2,1922,Ksar,France,Brûleur,F. Bullock,W.-R. Walton,Mme E. Blanc,Fléchois,Relapse,Bahadur,Kefalin,"2'38""80",M,4,1,158.8
+3,1923,Parth,Royaume-Uni,Polymelus,F. O'Neill,J.-H. Crawford,A.-K. Macomber,Massine,Filibert de Savoie,Checkmate,Kefalin,"2'38""20",M,3,1,158.2
+4,1924,Massine,France,Consols,A. Sharpe,E. Cunnington,Henry Ternynck,Isola Bella,Cadum,Le Capucin,Uganda,"2'40""80",M,4,1,160.8
+5,1925,Priori,France,Brûleur,M. Allemand,P. Carter,G. de Chavagnac,Cadum (1er rét.),Tras Los Montes,La Habanera,Masked Marvel,"2'33""80",M,3,1,153.8
+6,1926,Biribi,France,Rabelais,D. Torterolo,J. Torterolo,Simon Guthman,Dorina,Ptolemy,Masked Ruler,Priori,"2'32""80",M,3,1,152.8
+7,1927,Mon Talisman,France,Craig and Eran,Ch.-H. Semblat,F. Carter,E. Martinez de Hoz,Nino,Felton,Fitérari,Flamant,"2'32""80",M,3,1,152.8
+8,1928,Kantar,Royaume-Uni,Alcantara II,A. Esling,R. Carver,Ogden Mills,Rialto,Finglas,Motrico,Oleander,"2'38""80",M,3,1,158.8
+9,1929,Ortello,Italie,Teddy,P. Caprioli,W. Carter,G. del Montel,Kantar,Finglas,Vatout,Ukrania,"2'42""80",M,3,1,162.8
+10,1930,Motrico,France,Radamès,M. Fruhinsholtz,M. d'Okhuysen,Max de Rivaud,Hotwood,Filarete,Ortello,Commanderie,"2'44""80",M,5,1,164.8
+11,1931,Pearl Cap,France,Le Capucin,Ch.-H. Semblat,F. Carter,Mlle Diana Esmond,Amfortas,Prince Rose,Brûlette,Taxodium,"2'38""80",F,3,0,158.8
+12,1932,Motrico,France,Radamès,Ch.-H. Semblat,M. d'Okhuysen,Max de Rivaud,Goyescas,Macaroni,Le Bécau,Fénolo,"2'44""60",M,7,1,164.6
+13,1933,Crapom,Italie,Cranach II,P. Caprioli,F. Regoli,Mario Crespi,Casterari,Pantalon,Assuérus,Camping,"2'41""60",M,3,1,161.6
+14,1934,Brantôme,France,Blandford,C. Bouillon,L. Robert,É. de Rothschild,Assuérus,Félicitation,Silver Plated,Sa Parade,"2'41""80",M,3,1,161.8
+15,1935,Samos,France,Brûleur,W. Sibbritt,F. Carter,E. de Saint-Alary,Péniche,Corrida,Brantôme,Admiral Drake,"2'42""60",F,3,0,162.6
+16,1936,Corrida,France,Coronach,Charlie Elliott,J.-E. Watts,Marcel Boussac,Cousine,Fantastic,Blue Bear,Samos,"2'38""60",F,4,0,158.6
+17,1937,Corrida,France,Coronach,Charlie Elliott,J.-E. Watts,Marcel Boussac,Tonnelle,Mousson,En Fraude,Sturmvogel,"2'33""90",F,5,0,153.9
+18,1938,Éclair au Chocolat,France,Bubbles,C. Bouillon,L. Robert,É. de Rothschild,Antonym,Canot,Castel Fusano,Vatellor,"2'39""80",M,3,1,159.8
+19,1941,Le Pacha,France,Biribi,P. Francolon,J. Cunnington,Philippe Gund,Nepenthe,Djebel,Jock,Longthanh,"2'36""20",M,3,1,156.2
+20,1942,Djebel,France,Tourbillon,Jacques Doyasbère,Charles Semblat,Marcel Boussac,Tornado,Breughel,Hern the Hunter,Vigilance,"2'37""90",M,5,1,157.9
+21,1943,Verso II,France,Pinceau,G. Duforez,C. Clout,Cte de Chambure,Esmeralda,Norseman,Cordon Rouge,Châteauroux,"2'33""40",M,3,1,153.4
+22,1944,Ardan,France,Pharis,Jacques Doyasbère,Charles Semblat,Marcel Boussac,Un Gaillard,Deux Pour Cent,Esmeralda,Samaritain,"2'35""00",M,3,1,155.0
+23,1945,Nikellora,France,Vatellor,R. Johnstone,R. Pelat,Mme R. Paturea,Ardan,Chanteur,Basileus,Samaritain,"2'34""80",F,3,0,154.8
+24,1946,Caracalla,France,Tourbillon,Charlie Elliott,Charles Semblat,Marcel Boussac,Prince Chevalier,Pirette,Ardan,Fine Lad,"2'33""30",F,4,0,153.3
+25,1947,Le Paillon,France,Fastnet,F. Rochetti,W. Head,L. Aurosseau,Goyama,Madelon,Fante,Tourment,"2'33""40",M,5,1,153.4
+26,1948,Migoli,Royaume-Uni,Bois Roussel,C. Smirke,Frank Butters,Aga Khan III,Nirgal,Bey,Spooney,Turmoil,"2'31""60",M,4,1,151.6
+27,1949,Coronation,France,Djebel,Roger Poincelet,Charles Semblat,Marcel Boussac,Double Rose,Amour Drake,Rantzau,Médium,"2'38""60",F,3,0,158.6
+28,1950,Tantième,France,Deux Pour Cent,Jacques Doyasbère,François Mathet,François Dupré,Alizier,L'Amiral,Scratch,Fort Napoléon,"2'34""20",M,3,1,154.2
+29,1951,Tantième,France,Deux Pour Cent,Jacques Doyasbère,François Mathet,François Dupré,Nuccio,Le Tirol,Djelfa,Pan,"2'32""80",M,4,1,152.8
+30,1952,Nuccio,France,Traghetto,Roger Poincelet,Alec Head,Aga Khan III,La Mirambule,Dynamiter,Silnet,Worden,"2'39""80",M,4,1,159.8
+31,1953,La Sorellina,France,Sayani,M. Larraun,Étienne Pollet,Paul Dubosq,Silnet,Worden,Buisson d'Or,Northern Light,"2'31""80",F,3,0,151.8
+32,1954,Sica Boy,France,Sunny Boy,W. Johnstone,P. Pelat,Mme J. Cochery,Banassa,Filante,Norman,Cordova,"2'36""30",M,3,1,156.3
+33,1955,Ribot,Italie,Tenerani,E. Camici,U. Penco,Mis I. della Rochetta,Beau Prince II,Picounda,Kurun,Savoyard,"2'35""60",M,3,1,155.6
+34,1956,Ribot,Italie,Tenerani,E. Camici,U. Penco,Mis I. della Rochetta,Talgo,Tanerko,Career Boy,Master Boing,"2'34""70",M,4,1,154.7
+35,1957,Oroso,France,Tifinar,S. Boullenger,D. Lescalle,Raoul Meyer,Denisy,Balbo,Prince Taj,Al Mabsoot,"2'33""40",M,4,1,153.4
+36,1958,Ballymoss,Irlande,Mossborough,S. Breasley,Vincent O'Brien,J. McShain,Fric,Cherasco,V.I.P.,Tanerko,"2'37""90",M,4,1,157.9
+37,1959,Saint Crespin,France,Auréole,George Moore,Alec Head,Prince Ali Khan,Midnight Sun,Le Loup Garou,Mi Carina,Primera,"2'33""30",M,3,1,153.3
+38,1960,Puissant Chef,France,Djefou,M. Garcia,C.-W. Bartholomew,H. Aubert,Hautain,Point d'Amour III,Esquimau,Santa Severa,"2'44""",M,3,1,164.0
+39,1961,Molvedo,Italie,Ribot,E. Camici,A. Maggi,Edigio Verga,Right Royal,Misti,Hight Hat,Match,"2'33""40",M,3,1,153.4
+40,1962,Soltikoff,France,Prince Chevalier,M. Depalmas,R. Pelat,Mme C. del Duca,Monade,Val de Loir,Snob,Match,"2'30""90",M,3,1,150.9
+41,1963,Exbury,France,Le Haar,J. Deforge,G. Watson,G. de Rothschild,Le Mesnil,Misti,Soltikoff,Sanctus,"2'35""00",M,4,1,155.0
+42,1964,Prince Royal,France,Ribot,Roger Poincelet,G. Bridgland,Rex Ellworth,Santa Claus,La Bamba,Timmy Lad,Belle Sicambre,"2'35""50",M,3,1,155.5
+43,1965,Sea Bird,France,Dan Cupid,T.-P. Glennon,Étienne Pollet,Jean Ternynck,Reliance,Diatome,Free Ride,Anilin,"2'35""50",M,3,1,155.5
+44,1966,Bon Mot,France,Worden,Freddy Head,W. Head,F.-W.Burmann,Sigebert,Lionel,A Tempo,Behistoun,"2'39""80",M,3,1,159.8
+45,1967,Topyo,France,Fine Top,W. Pyers,C.-W. Bartholomew,Mme L. Volterra,Salvo,Ribocco,Roi Dagobert,Heath Rose,"2'38""20",M,3,1,158.2
+46,1968,Vaguely Noble,France,Vienna,W. Williamson,Étienne Pollet,R.-A.Franklin,Sir Ivor,Carmarthen,Roselière,La Lagune,"2'35""20",M,3,1,155.2
+47,1969,Levmoss,Royaume-Uni,Le Levanstell,W. Williamson,S. McGrath,S. McGrath,Park Top,Grandier,Candy Cane,Prince Régent,"2'29""",M,4,1,149.0
+48,1970,Sassafras,France,Sheshoon,Yves Saint-Martin,François Mathet,Arpad Plesch,Nijinsky,Miss Dan,Gyr,Blakeney,"2'29""70",M,3,1,149.7
+49,1971,Mill Reef,Royaume-Uni,Never Bend,Geoff Lewis,Ian Balding,Paul Mellon,Pistol Packer,Cambrizzia,Caro,Hallez,"2'28""30",M,3,1,148.3
+50,1972,San San,France,Bald Eagle,Freddy Head,Angel Penna,C. Batthyany,Rescousse,Homeric,Regal Exception,Card King,"2'28""30",F,3,0,148.3
+51,1973,Rheingold,Royaume-Uni,Fabergé,Lester Piggott,Barry Hills,Henry Zeisel,Allez France,Hard to Beat,Card King,Lady Berry,"2'35""80",M,4,1,155.8
+52,1974,Allez France,France,Sea Bird,Yves Saint-Martin,Angel Penna,D.Wildenstein,Comtesse de Loir,Margouillat,Kamaraan,Paumista,"2'36""90",F,4,0,156.9
+53,1975,Star Appeal,Allemagne,Appiani,Greville Starkey,Theo Grieper,W.Zeitelhack,On My Way,Comtesse de Loir,Un Kopeck,Allez France,"2'33""60",M,5,1,153.6
+54,1976,Ivanjica,France,Sir Ivor,Freddy Head,Alec Head,J. Wertheimer,Crow,Youth,Noble Dancer,Bruni,"2'39""40",F,4,0,159.4
+55,1977,Alleged,Irlande,Hoist the Flag,Lester Piggott,Vincent O'Brien,R. Sangster,Balmerino,Crystal Palace,Dunfermline,Crow,"2'30""60",M,3,1,150.6
+56,1978,Alleged,Irlande,Hoist the Flag,Lester Piggott,Vincent O'Brien,R. Sangster,Trillion,Dancing Maid,Frère Basile,Guadanini,"2'36""50",M,4,1,156.5
+57,1979,Three Troikas,France,Lyphard,Freddy Head,Christiane Head,Mme A. Head,Le Marmot,Troy,Pevero,Trillion,"2'28""90",F,3,0,148.9
+58,1980,Detroit,France,Riverman,Pat Eddery,Olivier Douïeb,R. Sangster,Argument,Ela-Mana-Mou,Three Troikas,Nebos,"2'28""00",F,3,0,148.0
+59,1981,Gold River,France,Riverman,G.-W. Moore,Alec Head,J. Wertheimer,Bikala,April Run,Perrault,Ardross,"2'35""40",F,4,0,155.4
+60,1982,Akiyda,France,Labus,Yves Saint-Martin,François Mathet,S.A. Aga Khan,Ardross,Awaasif,April Run,Real Shadaï,"2'37""00",F,3,0,157.0
+61,1983,All Along,France,Targowice,Walter Swinburn,Patrick Biancone,D.Wildenstein,Sun Princess,Luth Enchantée,Time Charter,Salmon Leap,"2'28""10",F,4,0,148.1
+62,1984,Sagace,France,Luthier,Yves Saint-Martin,Patrick Biancone,D.Wildenstein,Northern Trick,All Along,Esprit du Nord,Strawberry Road,"2'39""10",M,4,1,159.1
+63,1985,Rainbow Quest,Royaume-Uni,Blushing Groom,Pat Eddery,Jeremy Tree,K. Abdullah,Sagace,Kozana,Sumayr,Fitnah,"2'29""50",M,4,1,149.5
+64,1986,Dancing Brave,Royaume-Uni,Lyphard,Pat Eddery,Guy Harwood,K. Abdullah,Bering,Triptych,Shahrastani,Shardari,"2'27""70",M,3,1,147.7
+65,1987,Trempolino,France,Sharpen Up,Pat Eddery,André Fabre,Paul de Moussac,Tony Bin,Triptych,Mtoto,Tabayaan,"2'26""30",M,3,1,146.3
+66,1988,Tony Bin,Italie,Kampala,John Reid,L. Camici,M. Del Bono Gaucci,Mtoto,Boyatino,Unfuwain,Village Star,"2'27""30",M,5,1,147.3
+67,1989,Carroll House,Royaume-Uni,Lord Gayle,Michael Kinane,Michael Jarvis,A. Balzarini,Behera,Saint Andrews,Young Mother,Sierra Roberta,"2'30""80",M,3,1,150.8
+68,1990,Saumarez,France,Rainbow Quest,Gérald Mossé,Nicolas Clément,B. McNall,Epervier Bleu,Snurge,In The Wings,Belmez,"2'29""80",M,3,1,149.8
+69,1991,Suave Dancer,France,Green Dancer,Cash Asmussen,John Hammond,H. Chalhoub,Magic Night,Pistolet Bleu,Toulon,Pigeon Voyageur,"2'31""40",M,3,1,151.4
+70,1992,Subotica,France,Pampabird,Thierry Jarnet,André Fabre,Olivier Lecerf,User Friendly,Vert Amande,St Jovite,Saganeca,"2'39""00",M,4,1,159.0
+71,1993,Urban Sea,France,Miswaki,Eric Saint-Martin,Jean Lesbordes,David Tsui,White Muzzle,Opera House,Intrepidity,Only Royale,"2'37""90",F,4,0,157.9
+72,1994,Carnegie,France,Sadler's Wells,Thierry Jarnet,André Fabre,Cheikh Mohammed,Hernando,Apple Tree,Ezzoud,Bright Moon,"2'31""10",M,3,1,151.1
+73,1995,Lammtarra,Royaume-Uni,Nijinsky,Lanfranco Dettori,S.bin Suroor,Saeed Al Maktoum,Freedom Cry,Swain,Lando,Pure Grain,"2'31""80",M,3,1,151.8
+74,1996,Helissio,France,Fairy King,Olivier Peslier,Elie Lellouche,Enrique Sarasola,Pilsudski,Oscar Schindler,Swain,Luna Wells,"2'29""90",M,3,1,149.9
+75,1997,Peintre Célèbre,France,Nureyev,Olivier Peslier,André Fabre,D.Wildenstein,Pilsudski,Borgia,Oscar Schindler,Predappio,"2'24""60",M,3,1,144.6
+76,1998,Sagamix,France,Linamix,Olivier Peslier,André Fabre,J.-L.Lagardère,Leggera,Tiger Hill,Croco Rouge,Caitano,"2'34""50",M,3,1,154.5
+77,1999,Montjeu,France,Sadler's Wells,Michael Kinane,John Hammond,Michael Tabor,El Condor Pasa,Croco Rouge,Leggera,Tiger Hill,"2'38""50",M,3,1,158.5
+78,2000,Sinndar,Irlande,Grand Lodge,Johnny Murtagh,John Oxx,S.A. Aga Khan,Egyptband,Volvoreta,Montjeu,Hightori,"2'25""80",M,3,1,145.8
+79,2001,Sakhee,Royaume-Uni,Bahri,Lanfranco Dettori,S. bin Suroor,Godolphin,Aquarelliste,Sagacity,Golan,Milan,"2'36""10",M,4,1,156.1
+80,2002,Marienbard,Royaume-Uni,Caerleon,Lanfranco Dettori,S. bin Suroor,Godolphin,Sulamani,High Chaparral,Califet,Islington,"2'26""70",M,5,1,146.7
+81,2003,Dalakhani,France,Darshaan,Christophe Soumillon,A.de Royer-Dupré,S.A. Aga Khan,Mubtaker,High Chaparral,Doyen,Vinnie Roe,"2'32""30",M,3,1,152.3
+82,2004,Bago,France,Nashwan,Thierry Gillet,Jonathan Pease,Succ.Niarchos,Cherry Mix,Ouija Board,Acropolis,North Light,"2'25""00",M,3,1,145.0
+83,2005,Hurricane Run,France,Montjeu,Kieren Fallon,André Fabre,Michael Tabor,Westerner,Bago,Shirocco,Motivator,"2'27""40",M,3,1,147.4
+84,2006,Rail Link,France,Dansili,S. Pasquier,André Fabre,Khalid Abdullah,Pride,Hurricane Run[9],Best Name,Irish Wells,"2'31""70",M,3,1,151.7
+85,2007,Dylan Thomas,Irlande,Danehill,Kieren Fallon,Aidan O'Brien,Coolmore,Youmzain,Sagara,Getaway,Soldier of Fortune,"2'28""50",M,4,1,148.5
+86,2008,Zarkava,France,Zamindar,Christophe Soumillon,A.de Royer-Dupré,S.A. Aga Khan,Youmzain,Soldier of FortuneIt's Gino[8],,Vision d'Etat,"2'28""80",F,3,0,148.8
+87,2009,Sea The Stars,Irlande,Cape Cross,Michael Kinane,John Oxx,Cristopher Tsui,Youmzain,Cavalryman,Conduit,Dar Re Mi,"2'26""30",M,3,1,146.3
+88,2010,Workforce,Royaume-Uni,King's Best,Ryan Moore,Sir Michael Stoute,Khalid Abdullah,Nakayama Festa,Sarafina,Bekhabad,Fame and Glory,"2'35""30",M,3,1,155.3
+89,2011,Danedream,Allemagne,Lomitas,Andrasch Starke,Peter Schiergen,Gest. B. Eberstein,Shareta,Snow Fairy,So You Think,St Nicholas Abbey,"2'24""49",F,3,0,144.49
+90,2012,Solemia,France,Poliglote,Olivier Peslier,C.Laffon-Parias,Wertheimer & Frère,Orfevre,Masterstroke,Haya Landa,Yellow and Green,"2'37""68",F,4,0,157.68
+91,2013,Trêve,France,Motivator,Thierry Jarnet,Christiane Head,Al Shaqab Racing,Orfevre,Intello,Kizuna,Penglai Pavilion,"2'32""04",F,3,0,152.04
+92,2014,Trêve,France,Motivator,Thierry Jarnet,Christiane Head,Al Shaqab Racing,Flintshire,Taghrooda,Kingston Hill,Dolniya,"2'26""05",F,4,0,146.05
+93,2015,Golden Horn,Royaume-Uni,Cape Cross,Lanfranco Dettori,John Gosden,A. E. Oppenheimer,Flintshire,New Bay,Trêve,Erupt,"2'27""23",M,3,1,147.23
+94,2016,Found,Irlande,Galileo,Ryan Moore,Aidan O'Brien,Coolmore,Highland Reel,Order of St George,Siljan's Saga,Postponed,"2'23""61",F,4,0,143.61
+95,2017,Enable,Royaume-Uni,Nathaniel,Lanfranco Dettori,John Gosden,Khalid Abdullah,Cloth of Stars,Ulysses,Order of St George,Brametot,"2'28""69",F,3,0,148.69
+96,2018,Enable,Royaume-Uni,Nathaniel,Lanfranco Dettori,John Gosden,Khalid Abdullah,Sea of Class,Cloth of Stars,Waldgeist,Capri,"2'29""24",F,4,0,149.24
+97,2019,Waldgeist,France,Galileo,Pierre-Charles Boudot,André Fabre,Gestüt Ammerland,Enable,Sottsass,Japan,Magical,"2'31""97",M,5,1,151.97
+98,2020,Sottsass,France,Siyouni,Cristian Demuro,Jean-Claude Rouget,White Birch Farm,In Swoop,Persian King,Gold Trip,Raabihah,"2'39""30",M,4,1,159.3
