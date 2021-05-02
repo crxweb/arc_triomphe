@@ -1,3 +1,5 @@
+from pprint import pprint
+
 import requests
 import sys
 import json
@@ -19,6 +21,18 @@ def search_by_name(name):
     :return:
     """
     url = "https://www.france-galop.com/fr/horses-and-people/search-ajax?mot=" + name + "&type=chevaux"
+    payload = {}
+    headers = {
+        'Cookie': utils.cookie
+    }
+    response = requests.request("GET", url, headers=headers, data=payload)
+    print(response.text)
+    return response.text
+
+
+def performance(cheval_id):
+    url = "https://www.france-galop.com/fr/frglp-global/ajax?module=cheval_performances&id_cheval="+cheval_id +\
+          "&specialty=4&year=%20&jockey=%20&proprietaire=%20&entraineur=%20&nbResult=1000"
     payload = {}
     headers = {
         'Cookie': utils.cookie
@@ -133,9 +147,9 @@ def make_csv_from_course():
     """
     print('** make csv from course FRANCE GALOP')
     s_id, s_nom, s_sexe, s_naissance, s_race, s_pays, s_info, s_infoyear = ([] for _ in range(8))
-    csv_course = glob.glob(utils.course_folder + "/*.csv")
+    csv_course = glob.glob(utils.course_folder + "arc_triomphe/" + "/*.csv")
     for filename in csv_course:
-        year = filename.split(utils.course_folder)[1][:4]
+        year = filename.split(utils.course_folder + "arc_triomphe/")[1][:4]
         df_course = pd.read_csv(filename, index_col=None, header=0)
         for row_course in df_course.itertuples():
             new_cheval = {
@@ -210,3 +224,139 @@ def retrieve_undefined_csv():
             df_cheval.loc[df_cheval['id'] == row.id, 'sexe'] = info['sexe']
     df_cheval.to_csv(utils.cheval_folder + utils.cheval_retrieve_undefined, index=None)
 
+
+def scrap_carriere(cheval_id, filename=None):
+    """
+    :param cheval_id:
+    :param filename:
+    :return:
+    """
+    s_id, s_chevalid, s_date, s_hippodrome, s_place, s_distance, s_spe, s_cat,\
+        s_cat_bt, s_poids, s_prop, s_entra, s_jock, s_alloc, s_primep, s_primee,\
+        s_valeur = ([] for _ in range(17))
+    if filename is not None:
+        page_content = BeautifulSoup(open(filename, 'r'), "html.parser")
+    else:
+        page_content = BeautifulSoup(performance(cheval_id), "html.parser")
+
+    res = None
+    for items in page_content.find_all('tr'):
+        data = [item for item in items.find_all(['td'])]
+        row_perf = {
+            'id': None,
+            'cheval_id': None,
+            'date': None,
+            'hippodrome': None,
+            'place': None,
+            'distance': None,
+            'specialite': None,
+            'categorie': None,
+            'categorie_blacktype': None,
+            'poids': None,
+            'proprietaire': None,
+            'entrainneur': None,
+            'jockey': None,
+            'allocation_totale': None,
+            'prime_proprietaire': None,
+            'prime_eleveur': None,
+            'valeur': None,
+        }
+
+        row_perf['id'] = None
+        link_course = data[0].find('a')
+        if link_course.has_attr('href'):
+            if len(link_course['href']):
+                row_perf['id'] = link_course['href'].split('/')[-1]
+        row_perf['cheval_id'] =  cheval_id
+        row_perf['date'] = data[0].get_text(strip=True)
+        row_perf['hippodrome'] = data[1].get_text(strip=True)
+        row_perf['place'] = data[2].get_text(strip=True)
+        row_perf['distance'] = data[3].get_text(strip=True)
+        row_perf['specialite'] = data[4].get_text(strip=True)
+        row_perf['categorie'] = data[5].get_text(strip=True) if len(data[5].get_text(strip=True)) else None
+        row_perf['categorie_blacktype'] = data[6].get_text(strip=True) if len(data[6].get_text(strip=True)) else None
+        row_perf['poids'] = data[7].get_text(strip=True)
+        row_perf['proprietaire'] = data[8].get_text(strip=True) if len(data[8].get_text(strip=True)) else None
+        row_perf['entrainneur'] = data[9].get_text(strip=True) if len(data[9].get_text(strip=True)) else None
+        row_perf['jockey'] = data[10].get_text(strip=True) if len(data[10].get_text(strip=True)) else None
+        row_perf['allocation_totale'] = data[11].get_text(strip=True)
+        row_perf['prime_proprietaire'] = data[12].get_text(strip=True)
+        row_perf['prime_eleveur'] = data[13].get_text(strip=True)
+        row_perf['valeur'] = data[14].get_text(strip=True) if len(data[14].get_text(strip=True)) else None
+
+        s_id.append(row_perf.get('id'))
+        s_chevalid.append(row_perf.get('cheval_id'))
+        s_date.append(row_perf.get('date'))
+        s_hippodrome.append(row_perf.get('hippodrome'))
+        s_place.append(row_perf.get('place'))
+        s_distance.append(row_perf.get('distance'))
+        s_spe.append(row_perf.get('specialite'))
+        s_cat.append(row_perf.get('categorie'))
+        s_cat_bt.append(row_perf.get('categorie_blacktype'))
+        s_poids.append(row_perf.get('poids'))
+        s_prop.append(row_perf.get('proprietaire'))
+        s_entra.append(row_perf.get('entrainneur'))
+        s_jock.append(row_perf.get('jockey'))
+        s_alloc.append(row_perf.get('allocation_totale'))
+        s_primep.append(row_perf.get('prime_proprietaire'))
+        s_primee.append(row_perf.get('prime_eleveur'))
+        s_valeur.append(row_perf.get('valeur'))
+
+        pprint(row_perf)
+        print('-----------------------------')
+
+    data = {'id': s_id, 'cheval_id': s_chevalid, 'date': s_date, 'hippodrome': s_hippodrome, 'place': s_place,
+            'distance': s_distance, 'specialite': s_spe, 'categorie': s_cat, 'categorie_backtype': s_cat_bt,
+            'poids': s_poids, 'proprietaire': s_prop, 'entrainneur': s_entra, 'jockey': s_jock,
+            'allocation_totale': s_alloc, 'prime_proprietaire': s_primep, 'prime_eleveur': s_primee, 'valeur': s_valeur}
+    df_perf = pd.DataFrame.from_dict(data)
+    return df_perf
+    #df_perf.to_csv(utils.perf_folder + utils.performance_from_fg_csv, index=None, mode="a")
+
+
+def make_perf_csv():
+    """
+    Utilisé pour création fichier csv performance de tous les chevaux
+    Exemple: cheval.scrap_carriere(cheval_id="dFhkeERHK0JNRWpQUnQzdTE3dmp4dz09", filename="brouillons/performance_cheval.txt")
+    :return:
+    """
+    perf_list = []
+    df_cheval = pd.read_csv(utils.cheval_folder + utils.cheval_retrieve_undefined, index_col=None, header=0)
+    cpt_cheval = 1
+
+    # on récupère pour les 299 1ers chevaux : cookie semble ne plus être valable
+    """
+    for row in df_cheval.itertuples():
+        if cpt_cheval < 300:
+            cheval_id = row.id
+            print(cpt_cheval, cheval_id)
+            #cheval_perf = scrap_carriere(cheval_id=cheval_id, filename="brouillons/performance_cheval.txt")
+            cheval_perf = scrap_carriere(cheval_id=cheval_id)
+            perf_list.append(cheval_perf)
+            cpt_cheval += 1
+
+    if len(perf_list):
+        perf_list = pd.concat(perf_list, ignore_index=True)
+        perf_list.to_csv(utils.perf_folder + "make_csv_francegalop_part1.csv", index=None)    
+    """
+    # on récupère les chevaux à partir du 300ème : cookie semble ne plus être valable
+    """
+    for row in df_cheval.itertuples():
+        cheval_id = row.id
+        if cpt_cheval > 300:
+            print(cpt_cheval, cheval_id)
+            #cheval_perf = scrap_carriere(cheval_id=cheval_id, filename="brouillons/performance_cheval.txt")
+            cheval_perf = scrap_carriere(cheval_id=cheval_id)
+            perf_list.append(cheval_perf)
+        cpt_cheval += 1
+
+    if len(perf_list):
+        perf_list = pd.concat(perf_list, ignore_index=True)
+        perf_list.to_csv(utils.perf_folder + "make_csv_francegalop_part2.csv", index=None)
+    """
+    # Merge des 2 fichiers
+    df_part1 = pd.read_csv(utils.perf_folder + "make_csv_francegalop_part1.csv", index_col=None, header=0)
+    df_part2 = pd.read_csv(utils.perf_folder + "make_csv_francegalop_part2.csv", index_col=None, header=0)
+    frames = [df_part1, df_part2]
+    df_performance = pd.concat(frames)
+    df_performance.to_csv(utils.perf_folder + "performance.csv", index=None)

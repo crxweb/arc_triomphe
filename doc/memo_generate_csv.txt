@@ -1,6 +1,8 @@
 - penser à pouvoir maj simplement les données:
     - prévoir pour chaque fiche cheval un Boolean pour indiquer si cheval actif ou pas (voir si arrêté ou continue courses : trouver cette info)
     - cette même fiche cheval pourra etre mises à jour pour cette feature
+lexique:
+https://www.paris-hippiques.info/lexique-abreviations.html
 
 todo:
 - reprendre chevaux pour arc triomphe avant 2008

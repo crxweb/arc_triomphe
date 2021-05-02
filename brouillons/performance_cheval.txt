@@ -1,0 +1,589 @@
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="/fr/course/detail/1995/P/TVZROVZGb3dxclRMWk9RYjNpNnBTZz09">
+			02/07/1995
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">SAINT-CLOUD</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">3</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">59,5</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true">STRONACH </td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true">CUMANI </td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true">MOSSE </td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">36.588</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+		<span class="content_value">52.5</span>
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="SAINT-CLOUD" data-date="1995" data-specialite="0"
+			data-nom-video="" data-num-programme="TVZROVZGb3dxclRMWk9RYjNpNnBTZz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			10/06/1995
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">EPSOM</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">2</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">43.696</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="EPSOM" data-date="1995" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			05/05/1995
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">NEWMARKET</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.II </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">41.504</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="NEWMARKET" data-date="1995" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			05/11/1994
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">CHURCHILL DOWNS</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">5</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">36.008</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="CHURCHILL DOWNS" data-date="1994" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="/fr/course/detail/1994/P/ZHAza0JCa2FHMmZ6bkM1dmtLNXhzUT09">
+			02/10/1994
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">PARISLONGCHAMP</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">7</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">57,5</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true">SAINAGHI </td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true">CUMANI </td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true">DETTORI </td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+		<span class="content_value">54.0</span>
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="PARISLONGCHAMP" data-date="1994" data-specialite="0"
+			data-nom-video="" data-num-programme="ZHAza0JCa2FHMmZ6bkM1dmtLNXhzUT09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			17/08/1994
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">YORK</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">105.825</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="YORK" data-date="1994" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			03/06/1994
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">EPSOM</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">7</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="EPSOM" data-date="1994" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			19/05/1994
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">GOODWOOD</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">8</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.000</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">Listed</td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"></td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="GOODWOOD" data-date="1994" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			17/10/1993
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">MILAN</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">4</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">24.011</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="MILAN" data-date="1993" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="/fr/course/detail/1993/P/L0x5MXVOQjl5UjdDSWdFZjc2d0ZLZz09">
+			03/10/1993
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">PARISLONGCHAMP</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">5</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">57,5</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true">SAINAGHI </td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true">CUMANI </td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true">COCHRANE </td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="PARISLONGCHAMP" data-date="1993" data-specialite="0"
+			data-nom-video="" data-num-programme="L0x5MXVOQjl5UjdDSWdFZjc2d0ZLZz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="/fr/course/detail/1993/P/TU8raVVYaEMyaTVEMWxMeGJHdTJwZz09">
+			12/09/1993
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">PARISLONGCHAMP</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.III </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">56,5</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true">SAINAGHI </td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true">CUMANI </td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true">COCHRANE </td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">30.490</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="PARISLONGCHAMP" data-date="1993" data-specialite="0"
+			data-nom-video="" data-num-programme="TU8raVVYaEMyaTVEMWxMeGJHdTJwZz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			18/08/1993
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">YORK</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.I </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">100.291</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="YORK" data-date="1993" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			31/07/1993
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">GOODWOOD</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">2</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.000</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.II </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">24.526</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="GOODWOOD" data-date="1993" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			19/07/1993
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">AYR</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">2</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.000</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">GR.III </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true">K</td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">9.470</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="AYR" data-date="1993" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			05/06/1993
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">LEICESTER</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">2</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.200</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">Listed</td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"></td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">4.525</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="LEICESTER" data-date="1993" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			08/11/1992
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">MILAN</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.400</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">Listed</td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"></td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">34.301</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="MILAN" data-date="1992" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			09/10/1992
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">ASCOT</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">2</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.000</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">HAND. </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"> </td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">3.785</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="ASCOT" data-date="1992" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			13/09/1992
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">MILAN</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.000</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true"> </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"> </td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">15.245</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="MILAN" data-date="1992" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			17/07/1992
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">NEWBURY</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.000</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">HAND. </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"> </td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">5.711</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="NEWBURY" data-date="1992" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			23/06/1992
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">NEWBURY</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">2.000</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true">HAND. </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"> </td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">5.325</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="NEWBURY" data-date="1992" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>
+
+<tr>
+	<td class="" data-label="DateReunion" data-type="date" data-tri="true" data-visible="true">
+		<a href="">
+			30/05/1992
+		</a>
+	</td>
+	<td class="a-l" data-label="Hippodrome" data-type="text" data-tri="true" data-visible="true">EDINBURGH</td>
+	<td class="place" data-label="NbPlace" data-type="string" data-tri="true" data-visible="true">
+		<span class="content_value">1</span></td>
+	<td class="a-r" data-label="DistanceParcouru" data-type="number" data-tri="true" data-visible="true">1.600</td>
+	<td class="" data-label="Discipline" data-type="string" data-tri="true" data-visible="true">P</td>
+	<td class="a-l" data-label="Categorie" data-type="string" data-tri="true" data-visible="true"> </td>
+	<td class="" data-label="CategBlackType" data-type="string" data-tri="false" data-visible="true"> </td>
+	<td class="" data-label="PoidsPorte" data-type="string" data-tri="false" data-visible="true">0</td>
+	<td class="a-l" data-label="NomProprietaire" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomEntraineur" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-l" data-label="NomJockey" data-type="text" data-tri="true" data-visible="true"></td>
+	<td class="a-r" data-label="Gains" data-type="number" data-tri="true" data-visible="true">3.118</td>
+	<td class="a-r" data-label="PrimeProp" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="a-r" data-label="PrimeEleveur" data-type="number" data-tri="false" data-visible="true">0</td>
+	<td class="value a-r" data-label="Valeur" data-type="number" data-tri="true" data-visible="true">
+	</td>
+	<td class="" data-label="NomVideo" data-type="string" data-tri="false" data-visible="true">
+		<a class="replay-element" data-price="" data-reunion="EDINBURGH" data-date="1992" data-specialite="0"
+			data-nom-video="" data-num-programme="V2ZZd3N3M2JmV1ExeGk0NVkvSWZIdz09" data-type-video="1">
+			<img src="/themes/custom/francegalop/images/icons/video.svg" alt=""></a></td>
+</tr>

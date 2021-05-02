@@ -4,6 +4,7 @@ import requests
 import sys
 import json
 import os
+import glob
 import pandas as pd
 import csv
 from bs4 import BeautifulSoup
@@ -21,6 +22,7 @@ def save_fiche_course(url, destination_folder):
     Attention en 2000 France Galop n'a pas enregistré toutes les données : uniquement le 3 premiers chevaux
     2000_arc_triomphe_aEdrbGdqZ1N1SEpncmJwUXdDUnJYUT09.csv est donc à reconstituer ou à ignorer
     :param url:
+    :param destination_folder:
     :return:
     """
     return False # Attention à sauvegarder le fichier pour année 2000
@@ -118,5 +120,65 @@ def add_columns_info_cheval(directory):
                     print('---------------')
                 #break
         #break
+
+
+def make_arc_triomphe_liste_csv():
+    s_id, s_anne, s_url = ([] for _ in range(3))
+    for url in utils.fg_arc_course_url:
+        new_row = {"id": url.split("/")[-1], "annee": int(url.split("/")[-3]), "url": url}
+        print(new_row)
+        s_id.append(new_row.get('id'))
+        s_anne.append(new_row.get('annee'))
+        s_url.append(new_row.get('url'))
+        data = {'id': s_id, 'annee': s_anne, 'url': s_url}
+        df_arc_liste = pd.DataFrame.from_dict(data)
+        df_arc_liste.to_csv(utils.course_folder + "arc_triomphe_list.csv", index=None)
+
+
+def make_arc_triomphe_csv():
+    frames = []
+    df_arc_liste = pd.read_csv(utils.course_folder + "arc_triomphe_list.csv", index_col=None, header=0)
+    csv_course = glob.glob(utils.course_folder + "arc_triomphe/" + "/*.csv")
+    for filename in csv_course:
+        year = filename.split(utils.course_folder + "arc_triomphe/")[1][:4]
+        assoc_liste = df_arc_liste.loc[df_arc_liste['annee'] == int(year), 'id']
+        course_id = assoc_liste.iloc[0]
+        df_course = pd.read_csv(filename, index_col=None, header=0)
+        df_course.insert(0, "id", course_id, True)
+        df_course.insert(1, "annee", year, True)
+        frames.append(df_course)
+
+    if len(frames):
+        df_course_arc = pd.concat(frames)
+        df_course_arc.to_csv(utils.course_folder + "arc_triomphe.csv", index=None)
+
+
+def populate_arc_triomphe_liste_csv():
+    df_arc = pd.read_csv(utils.course_folder + "arc_triomphe.csv", index_col=None, header=0)
+    df_arc_liste = pd.read_csv(utils.course_folder + "arc_triomphe_list.csv", index_col=None, header=0)
+    participants, non_partants, non_place, tombes, disqualifies = ([] for _ in range(5))
+
+    for row in df_arc_liste.itertuples():
+        total_chevaux = df_arc[df_arc['id'] == row.id].shape[0]
+        participants.append(total_chevaux)
+        total_nonpartant = df_arc[(df_arc['id'] == row.id) & (df_arc['Place'].isin(['NP']))].shape[0]
+        non_partants.append(total_nonpartant)
+        total_nonplace = df_arc[(df_arc['id'] == row.id) & (df_arc['Place'].isin(['--']))].shape[0]
+        non_place.append(total_nonplace)
+        total_tombe = df_arc[(df_arc['id'] == row.id) & (df_arc['Place'].isin(['TB']))].shape[0]
+        tombes.append(total_tombe)
+        total_disqualifie = df_arc[(df_arc['id'] == row.id) & (df_arc['Place'].isin(['DI']))].shape[0]
+        disqualifies.append(total_disqualifie)
+    df_arc_liste['participant'] = participants
+    df_arc_liste['non_partant'] = non_partants
+    df_arc_liste['non_place'] = non_place
+    df_arc_liste['tombé'] = tombes
+    df_arc_liste['disqualifié'] = disqualifies
+    #print(df_arc_liste.head(30))
+    df_arc_liste.to_csv(utils.course_folder + "arc_triomphe_list.csv", index=None)
+
+
+
+
 
 
