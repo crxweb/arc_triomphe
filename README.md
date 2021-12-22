@@ -11,7 +11,7 @@ France Galop permet de consulter les fiches chevaux, jockey, propriétaire avec 
 
 Ainsi une personne non abonnée ne peut pas remonter l'historique d'un cheval au delà d'environ 10 années.
 
-En consultant les requêtes ajax effectuées par le navigateur il a été aisé de mettre en évidence les services disponibles permettant de réaliser ce privilège sans bénéficier du privilège abonné.
+En consultant les requêtes ajax effectuées par le navigateur il a été aisé de mettre en évidence les services disponibles permettant de réaliser la collecte sans bénéficier du privilège abonné.
 
 Il a donc été possible ici de remonter l'historique de 1993 à 2020 jusqu'à ce que le site protège l'accès à ses web service.
 
